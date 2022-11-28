@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!--====================== patches for royalty by Mlie =======================-->
+  <!--========================= adding double beds =============================-->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Royalty</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>*/RoyalTitleDef[defName = "Esquire" or defName = "Knight" or defName = "Praetor"]/bedroomRequirements/li[@Class = "RoomRequirement_ThingAnyOf"]/things</xpath>
+      <value>
+        <li>SadjuukBedroomAB</li>
+        <li>SadjuukBedroomBB</li>
+        <li>SadjuukBedroomCB</li>
+      </value>
+    </match>
+  </Operation>
+</Patch>
