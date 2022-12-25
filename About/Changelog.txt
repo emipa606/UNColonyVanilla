@@ -1,4 +1,7 @@
 # Changelog for UNColonyVanilla
 
+1.4.1 - Added research-requirements for some of the furniture. Now only log-furniture should be buildable if not ComplexFurniture is researched.
+
+
 1.4.0 - First publish
 

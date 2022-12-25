@@ -37,6 +37,9 @@
         </linkableFacilities>
       </li>
     </comps>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
   </ThingDef>
   <!-- SadjuukHospitalUpgradeBase : Base Hospital Upgrade -->
   <ThingDef Abstract="True" ParentName="FurnitureWithQualityBase" Name="SadjuukHospitalUpgradeBase">
@@ -52,6 +55,9 @@
     </placeWorkers>
     <socialPropernessMatters>true</socialPropernessMatters>
     <canOverlapZones>false</canOverlapZones>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
   </ThingDef>
   <!-- Ancient Hospital Beds -->
   <!-- SadjuukHospitalBB : Recovery Bed -->

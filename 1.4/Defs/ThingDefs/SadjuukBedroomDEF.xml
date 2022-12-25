@@ -37,6 +37,11 @@
       </li>
     </comps>
   </ThingDef>
+  <ThingDef Name="SadjuukBedroomComplexBase" ParentName="SadjuukBedroomBase" Abstract="True">
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+  </ThingDef>
   <!-- SadjuukBedroomUpgradeBase : Base All Bedroom Upgrade Chest, Nightstand, table -->
   <ThingDef Abstract="True" ParentName="FurnitureWithQualityBase" Name="SadjuukBedroomUpgradeBase">
     <designationCategory>SadjuukUN-Furniture</designationCategory>
@@ -52,6 +57,11 @@
     <socialPropernessMatters>true</socialPropernessMatters>
     <canOverlapZones>false</canOverlapZones>
   </ThingDef>
+  <ThingDef Name="SadjuukBedroomUpgradeComplexBase" ParentName="SadjuukBedroomUpgradeBase" Abstract="True">
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+  </ThingDef>
   <!-- SadjuukBedroomUpgradeBaseF : Base All Bedroom Chairs -->
   <ThingDef Abstract="True" ParentName="FurnitureWithQualityBase" Name="SadjuukBedroomUpgradeBaseF">
     <designationCategory>SadjuukUN-Furniture</designationCategory>
@@ -66,6 +76,11 @@
     <placeWorkers>
       <li>PlaceWorker_ShowFacilitiesConnections</li>
     </placeWorkers>
+  </ThingDef>
+  <ThingDef Name="SadjuukBedroomUpgradeComplexBaseF" ParentName="SadjuukBedroomUpgradeBaseF" Abstract="True">
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
   </ThingDef>
   <!-- Tribe Bedroom -->
   <!-- SadjuukBedroomAA : Wood Logs bed 1 Pawn -->
@@ -308,7 +323,7 @@ Bedroom Upgrade : A small primitive table.</description>
   </ThingDef>
   <!-- Ancient Bedroom -->
   <!-- SadjuukBedroomBA : Wooden bed 1 Pawn -->
-  <ThingDef ParentName="SadjuukBedroomBase">
+  <ThingDef ParentName="SadjuukBedroomComplexBase">
     <defName>SadjuukBedroomBA</defName>
     <label>Wooden Bed</label>
     <description>Beauty : 4
@@ -349,7 +364,7 @@ A comfortable bed made of wood giving a soft atmosphere to a room.</description>
     <constructEffect>ConstructWood</constructEffect>
   </ThingDef>
   <!-- SadjuukBedroomBB : Wooden bed 2 Pawns -->
-  <ThingDef ParentName="SadjuukBedroomBase">
+  <ThingDef ParentName="SadjuukBedroomComplexBase">
     <defName>SadjuukBedroomBB</defName>
     <label>Double Wooden Bed</label>
     <description>Beauty : 4
@@ -390,7 +405,7 @@ A comfortable bed made of wood giving a soft atmosphere to a room.</description>
     <constructEffect>ConstructWood</constructEffect>
   </ThingDef>
   <!-- SadjuukBedroomUpgradeBA : Wooden Nightstand -->
-  <ThingDef ParentName="SadjuukBedroomUpgradeBase">
+  <ThingDef ParentName="SadjuukBedroomUpgradeComplexBase">
     <defName>SadjuukBedroomUpgradeBA</defName>
     <label>Wooden Nightstand</label>
     <description>Beauty : 4
@@ -431,7 +446,7 @@ Bedroom Upgrade : A beautiful wooden Nightstand. Must be placed directly adjacen
     <constructEffect>ConstructWood</constructEffect>
   </ThingDef>
   <!-- SadjuukBedroomUpgradeBB : Wooden Wardrobe -->
-  <ThingDef ParentName="SadjuukBedroomUpgradeBase">
+  <ThingDef ParentName="SadjuukBedroomUpgradeComplexBase">
     <defName>SadjuukBedroomUpgradeBB</defName>
     <label>Wooden Wardrobe</label>
     <description>Beauty : 4
@@ -468,7 +483,7 @@ Bedroom Upgrade : A large wooden wardrobe.</description>
     <constructEffect>ConstructWood</constructEffect>
   </ThingDef>
   <!-- SadjuukBedroomUpgradeBF : Wooden Armchair -->
-  <ThingDef ParentName="SadjuukBedroomUpgradeBaseF">
+  <ThingDef ParentName="SadjuukBedroomUpgradeComplexBaseF">
     <defName>SadjuukBedroomUpgradeBF</defName>
     <label>Wooden Armchair</label>
     <description>Beauty : 6
@@ -513,7 +528,7 @@ Bedroom Upgrade : A finely decorated seat.</description>
     <constructEffect>ConstructWood</constructEffect>
   </ThingDef>
   <!-- SadjuukBedroomUpgradeBC : Small Wooden Table -->
-  <ThingDef ParentName="SadjuukBedroomUpgradeBase">
+  <ThingDef ParentName="SadjuukBedroomUpgradeComplexBase">
     <defName>SadjuukBedroomUpgradeBC</defName>
     <label>Small Wooden Table</label>
     <description>Beauty : 12
@@ -556,7 +571,7 @@ Bedroom Upgrade : A finely decorated bedroom table.</description>
   </ThingDef>
   <!-- Industrial Bedroom -->
   <!-- SadjuukBedroomCA : Steel bed 1 Pawn -->
-  <ThingDef ParentName="SadjuukBedroomBase">
+  <ThingDef ParentName="SadjuukBedroomComplexBase">
     <defName>SadjuukBedroomCA</defName>
     <label>Steel Bed</label>
     <description>Beauty : 2
@@ -599,7 +614,7 @@ A standard steel bed. Perfect for barracks, it also offers good hygiene properti
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukBedroomCB : Steel bed 2 Pawns -->
-  <ThingDef ParentName="SadjuukBedroomBase">
+  <ThingDef ParentName="SadjuukBedroomComplexBase">
     <defName>SadjuukBedroomCB</defName>
     <label>Double Steel Bed</label>
     <description>Beauty : 2
@@ -642,7 +657,7 @@ A standard steel bed. Perfect for barracks, it also offers good hygiene properti
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukBedroomUpgradeCA : Steel Chest -->
-  <ThingDef ParentName="SadjuukBedroomUpgradeBase">
+  <ThingDef ParentName="SadjuukBedroomUpgradeComplexBase">
     <defName>SadjuukBedroomUpgradeCA</defName>
     <label>Steel Chest</label>
     <description>Beauty : 2
@@ -685,7 +700,7 @@ Bedroom Upgrade : A personal steel chest, essential in the development of a civi
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukBedroomUpgradeCB : Steel Lockers -->
-  <ThingDef ParentName="SadjuukBedroomUpgradeBase">
+  <ThingDef ParentName="SadjuukBedroomUpgradeComplexBase">
     <defName>SadjuukBedroomUpgradeCB</defName>
     <label>Steel Lockers</label>
     <description>Beauty : 2
@@ -724,7 +739,7 @@ Bedroom Upgrade : Steel Lockers allowing a certain privacy.</description>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukBedroomUpgradeCF : Office Chair -->
-  <ThingDef ParentName="SadjuukBedroomUpgradeBaseF">
+  <ThingDef ParentName="SadjuukBedroomUpgradeComplexBaseF">
     <defName>SadjuukBedroomUpgradeCF</defName>
     <label>Office Chair</label>
     <description>Beauty : 2
@@ -770,7 +785,7 @@ Bedroom Upgrade : A complex but comfortable manufacturing armchair.</description
     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukBedroomUpgradeCC : Small Steel Table -->
-  <ThingDef ParentName="SadjuukBedroomUpgradeBase">
+  <ThingDef ParentName="SadjuukBedroomUpgradeComplexBase">
     <defName>SadjuukBedroomUpgradeCC</defName>
     <label>Small Steel Table</label>
     <description>Beauty : 2
@@ -812,7 +827,7 @@ Bedroom Upgrade : A standard steel table.</description>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukBedroomUpgradeCD : Small Glass Table -->
-  <ThingDef ParentName="SadjuukBedroomUpgradeBase">
+  <ThingDef ParentName="SadjuukBedroomUpgradeComplexBase">
     <defName>SadjuukBedroomUpgradeCD</defName>
     <label>Small Glass Table</label>
     <description>Beauty : 6

@@ -17,6 +17,11 @@
       <li>BuildingsMisc</li>
     </thingCategories>
   </ThingDef>
+  <ThingDef Name="SadjuukResearchComplexBase" ParentName="SadjuukResearchBase" Abstract="True">
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+  </ThingDef>
   <!-- SadjuukResearchUpgradeBase : Base Research Upgrade -->
   <ThingDef Abstract="True" ParentName="FurnitureWithQualityBase" Name="SadjuukResearchUpgradeBase">
     <designationCategory>SadjuukUN-Furniture</designationCategory>
@@ -31,6 +36,11 @@
     </placeWorkers>
     <socialPropernessMatters>true</socialPropernessMatters>
     <canOverlapZones>false</canOverlapZones>
+  </ThingDef>
+  <ThingDef Name="SadjuukResearchUpgradeComplexBase" ParentName="SadjuukResearchUpgradeBase" Abstract="True">
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
   </ThingDef>
   <!-- Tribe Research -->
   <!-- SadjuukResearchAA : Research Spot -->
@@ -117,7 +127,7 @@ Research Upgrade : A primitive calendar, giving the position of the stars and se
   <!-- SadjuukResearchAD : Planting Calendar -->
   <!-- Ancient Research -->
   <!-- SadjuukResearchBA : Research Desk -->
-  <ThingDef ParentName="SadjuukResearchBase">
+  <ThingDef ParentName="SadjuukResearchComplexBase">
     <defName>SadjuukResearchBA</defName>
     <label>Research Desk</label>
     <description>Beauty : 12
@@ -163,7 +173,7 @@ A wooden desk to comfortably focus on your research with serenity.</description>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukResearchUpgradeBA : Research Library -->
-  <ThingDef ParentName="SadjuukResearchUpgradeBase">
+  <ThingDef ParentName="SadjuukResearchUpgradeComplexBase">
     <defName>SadjuukResearchUpgradeBA</defName>
     <label>Research library</label>
     <description>Beauty : 12
@@ -202,7 +212,7 @@ Research Upgrade : A large library collecting acquired knowledge.</description>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukResearchUpgradeBB : Globe -->
-  <ThingDef ParentName="SadjuukResearchUpgradeBase">
+  <ThingDef ParentName="SadjuukResearchUpgradeComplexBase">
     <defName>SadjuukResearchUpgradeBB</defName>
     <label>Globe</label>
     <description>Beauty : 12
@@ -241,7 +251,7 @@ Research Upgrade : A globe focusing on geography and geology.</description>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukResearchUpgradeBC : Small Library -->
-  <ThingDef ParentName="SadjuukResearchUpgradeBase">
+  <ThingDef ParentName="SadjuukResearchUpgradeComplexBase">
     <defName>SadjuukResearchUpgradeBC</defName>
     <label>Small Library</label>
     <description>Beauty : 12
@@ -281,7 +291,7 @@ Research Upgrade : 2 of these small libraries can be used with a research space.
   </ThingDef>
   <!-- Industrial Research -->
   <!-- SadjuukResearchCA : Research Station -->
-  <ThingDef ParentName="SadjuukResearchBase">
+  <ThingDef ParentName="SadjuukResearchComplexBase">
     <defName>SadjuukResearchCA</defName>
     <label>Research Station</label>
     <description>Beauty : 2
@@ -339,7 +349,7 @@ A research Station equipped with IT and measurement tools.</description>
     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukResearchUpgradeCA : Blueprint Table -->
-  <ThingDef ParentName="SadjuukResearchUpgradeBase">
+  <ThingDef ParentName="SadjuukResearchUpgradeComplexBase">
     <defName>SadjuukResearchUpgradeCA</defName>
     <label>Blueprint Table</label>
     <description>Beauty : 2
@@ -389,7 +399,7 @@ Research Upgrade : The Blueprint Table allows to design machines with great prec
     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukResearchUpgradeCB : Archival Cabinet -->
-  <ThingDef ParentName="SadjuukResearchUpgradeBase">
+  <ThingDef ParentName="SadjuukResearchUpgradeComplexBase">
     <defName>SadjuukResearchUpgradeCB</defName>
     <label>Archival Cabinet</label>
     <description>Beauty : 2
@@ -428,7 +438,7 @@ Research Upgrade : 2 of these archival cabinets can be used with a research spac
     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukResearchUpgradeCC : Computer Installation -->
-  <ThingDef ParentName="SadjuukResearchUpgradeBase">
+  <ThingDef ParentName="SadjuukResearchUpgradeComplexBase">
     <defName>SadjuukResearchUpgradeCC</defName>
     <label>Computer Installation</label>
     <description>Beauty : 2
@@ -479,7 +489,7 @@ Research Upgrade : 2 of these installations can be used with a research space. A
     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
   </ThingDef>
   <!-- SadjuukResearchUpgradeCD : Computer Server -->
-  <ThingDef ParentName="SadjuukResearchUpgradeBase">
+  <ThingDef ParentName="SadjuukResearchUpgradeComplexBase">
     <defName>SadjuukResearchUpgradeCD</defName>
     <label>Computer Server</label>
     <description>Beauty : 2

@@ -139,6 +139,9 @@ A wooden Table for social or work organization.</description>
     </statBases>
     <constructEffect>ConstructWood</constructEffect>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
   </ThingDef>
   <!-- SadjuukTableBA : Wooden Table 1X1 -->
   <ThingDef ParentName="SadjuukTableBaseB">
@@ -245,6 +248,7 @@ A standard steel Table for social or work organization.</description>
       <Mass>40</Mass>
     </statBases>
     <researchPrerequisites>
+      <li>ComplexFurniture</li>
       <li>SadjuukFurnitureA</li>
     </researchPrerequisites>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
@@ -353,6 +357,7 @@ A beautiful Glass Table for social or work organization.</description>
       <Mass>40</Mass>
     </statBases>
     <researchPrerequisites>
+      <li>ComplexFurniture</li>
       <li>SadjuukFurnitureA</li>
     </researchPrerequisites>
     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
@@ -466,6 +471,7 @@ A beautiful Light Plasteel Table for social or work organization.</description>
       <Mass>40</Mass>
     </statBases>
     <researchPrerequisites>
+      <li>ComplexFurniture</li>
       <li>SadjuukFurnitureC</li>
     </researchPrerequisites>
     <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
@@ -580,6 +586,7 @@ A beautiful Dark Plasteel Table for social or work organization.</description>
       <Mass>40</Mass>
     </statBases>
     <researchPrerequisites>
+      <li>ComplexFurniture</li>
       <li>SadjuukFurnitureC</li>
     </researchPrerequisites>
     <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
