@@ -34,6 +34,7 @@
           <li>EndTable</li>
           <li>Dresser</li>
           <li>VitalsMonitor</li>
+          <li MayRequire="Ludeon.RimWorld.Ideology">SleepAccelerator</li>
         </linkableFacilities>
       </li>
     </comps>
@@ -87,6 +88,7 @@ A good medical bed, very confortable for peaceful recovery and long bed rest.</d
       <ImmunityGainSpeedFactor>1.1</ImmunityGainSpeedFactor>
       <MedicalTendQualityOffset>0.1</MedicalTendQualityOffset>
       <SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">4</BirthRitualQualityOffset>
       <Mass>40</Mass>
     </statBases>
     <techLevel>Medieval</techLevel>
@@ -261,6 +263,7 @@ A Surgery bed made for serious emergency interventions or complex operations.</d
       <ImmunityGainSpeedFactor>1.2</ImmunityGainSpeedFactor>
       <MedicalTendQualityOffset>0.2</MedicalTendQualityOffset>
       <SurgerySuccessChanceFactor>1.2</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">6</BirthRitualQualityOffset>
       <Mass>40</Mass>
     </statBases>
     <techLevel>Industrial</techLevel>
@@ -306,6 +309,7 @@ A very light emergency stretcher of only 3kg, to take with you for long operatio
       <ImmunityGainSpeedFactor>1</ImmunityGainSpeedFactor>
       <MedicalTendQualityOffset>0.2</MedicalTendQualityOffset>
       <SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">4</BirthRitualQualityOffset>
       <Mass>3</Mass>
     </statBases>
     <techLevel>Industrial</techLevel>

@@ -33,6 +33,7 @@
           <li>EndTable</li>
           <li>Dresser</li>
           <li>VitalsMonitor</li>
+          <li MayRequire="Ludeon.RimWorld.Ideology">SleepAccelerator</li>
         </linkableFacilities>
       </li>
     </comps>
@@ -109,6 +110,7 @@ A simple wooden support to sleep on. It is found among the most primitive people
       <Comfort>0.6</Comfort>
       <ImmunityGainSpeedFactor>1</ImmunityGainSpeedFactor>
       <SurgerySuccessChanceFactor>0.7</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">1</BirthRitualQualityOffset>
       <Mass>40</Mass>
     </statBases>
     <techLevel>Medieval</techLevel>
@@ -148,6 +150,7 @@ A simple wooden support to sleep on. It is found among the most primitive people
       <Comfort>0.6</Comfort>
       <ImmunityGainSpeedFactor>1</ImmunityGainSpeedFactor>
       <SurgerySuccessChanceFactor>0.7</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">1</BirthRitualQualityOffset>
       <Mass>80</Mass>
     </statBases>
     <techLevel>Medieval</techLevel>
@@ -348,6 +351,7 @@ A comfortable bed made of wood giving a soft atmosphere to a room.</description>
       <Comfort>0.85</Comfort>
       <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
       <SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">2</BirthRitualQualityOffset>
       <Beauty>4</Beauty>
       <Mass>40</Mass>
     </statBases>
@@ -389,6 +393,7 @@ A comfortable bed made of wood giving a soft atmosphere to a room.</description>
       <Comfort>0.85</Comfort>
       <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
       <SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">2</BirthRitualQualityOffset>
       <Beauty>4</Beauty>
       <Mass>80</Mass>
     </statBases>
@@ -596,6 +601,7 @@ A standard steel bed. Perfect for barracks, it also offers good hygiene properti
       <Comfort>0.75</Comfort>
       <ImmunityGainSpeedFactor>1.08</ImmunityGainSpeedFactor>
       <SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">2</BirthRitualQualityOffset>
       <Beauty>2</Beauty>
       <Mass>60</Mass>
     </statBases>
@@ -639,6 +645,7 @@ A standard steel bed. Perfect for barracks, it also offers good hygiene properti
       <Comfort>0.75</Comfort>
       <ImmunityGainSpeedFactor>1.08</ImmunityGainSpeedFactor>
       <SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+      <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">2</BirthRitualQualityOffset>
       <Beauty>2</Beauty>
       <Mass>120</Mass>
     </statBases>

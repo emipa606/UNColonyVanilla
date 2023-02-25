@@ -1,5 +1,8 @@
 # Changelog for UNColonyVanilla
 
+1.4.2 - Added support for Sleep accelerator and added Birthquality offsets
+
+
 1.4.1 - Added research-requirements for some of the furniture. Now only log-furniture should be buildable if not ComplexFurniture is researched.
 
 
