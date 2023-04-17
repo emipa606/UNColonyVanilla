@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="LoftBed"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationInsert">
+          <xpath>Defs/ThingDef</xpath>
+          <value>
+            <ThingDef ParentName="LoftBed">
+              <defName>SadjuukBedAA_loftbed</defName>
+              <label>Wood Logs loft bed</label>
+              <description>Beauty : 0
+Comfort : 50%
+Immunity : +0%
+Surgery : -40%
+Tending : +0%
+A simple raised wooden support to sleep on. It is found among the most primitive peoples and in the most infamous prisons.</description>
+              <graphicData>
+                <texPath>SadjuukLoftBeds/SadjuukBedroomAA_LoftBed</texPath>
+              </graphicData>
+              <statBases>
+                <MaxHitPoints>40</MaxHitPoints>
+                <WorkToBuild>850</WorkToBuild>
+                <Flammability>1</Flammability>
+                <BedRestEffectiveness>0.9</BedRestEffectiveness>
+                <Comfort>0.5</Comfort>
+                <ImmunityGainSpeedFactor>0.9</ImmunityGainSpeedFactor>
+                <SurgerySuccessChanceFactor>0.6</SurgerySuccessChanceFactor>
+                <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">0.9</BirthRitualQualityOffset>
+                <Mass>40</Mass>
+              </statBases>
+              <techLevel>Medieval</techLevel>
+              <stuffCategories Inherit="False" />
+              <costStuffCount Inherit="False" />
+              <costList Inherit="False">
+                <WoodLog>45</WoodLog>
+              </costList>
+              <building>
+                <bed_showSleeperBody>true</bed_showSleeperBody>
+                <bed_healPerDay>4</bed_healPerDay>
+              </building>
+              <uiIconPath>SadjuukLoftBeds/SadjuukBedroomAA_LoftBed_MenuIcon</uiIconPath>
+              <constructEffect>ConstructWood</constructEffect>
+              <constructionSkillPrerequisite>0</constructionSkillPrerequisite>
+              <researchPrerequisites>
+                <li>ComplexFurniture</li>
+              </researchPrerequisites>
+              <designationCategory>SadjuukUN-Furniture</designationCategory>
+              <fillPercent>0.4</fillPercent>
+              <passability>PassThroughOnly</passability>
+              <pathCost>60</pathCost>
+              <castEdgeShadows>True</castEdgeShadows>
+              <staticSunShadowHeight>0.2</staticSunShadowHeight>
+              <comps>
+                <li Class="CompProperties_AffectedByFacilities">
+                  <linkableFacilities>
+                    <li>SadjuukBedroomUpgradeAA</li>
+                    <li>SadjuukBedroomUpgradeAB</li>
+                    <li>SadjuukBedroomUpgradeAF</li>
+                    <li>SadjuukBedroomUpgradeAC</li>
+                    <li>SadjuukBedroomUpgradeBA</li>
+                    <li>SadjuukBedroomUpgradeBB</li>
+                    <li>SadjuukBedroomUpgradeBF</li>
+                    <li>SadjuukBedroomUpgradeBC</li>
+                    <li>SadjuukBedroomUpgradeCA</li>
+                    <li>SadjuukBedroomUpgradeCB</li>
+                    <li>SadjuukBedroomUpgradeCF</li>
+                    <li>SadjuukBedroomUpgradeCC</li>
+                    <li>SadjuukBedroomUpgradeCD</li>
+                    <li>SadjuukHospitalUpgradeBA</li>
+                    <li>SadjuukHospitalUpgradeBB</li>
+                    <li>SadjuukHospitalUpgradeCA</li>
+                    <li>SadjuukHospitalUpgradeCB</li>
+                    <li>SadjuukHospitalUpgradeCD</li>
+                    <li>SadjuukHospitalUpgradeCE</li>
+                    <li>EndTable</li>
+                    <li>Dresser</li>
+                    <li>VitalsMonitor</li>
+                    <li MayRequire="Ludeon.RimWorld.Ideology">SleepAccelerator</li>
+                  </linkableFacilities>
+                </li>
+              </comps>
+            </ThingDef>
+          </value>
+        </li>
+        <li Class="PatchOperationInsert">
+          <xpath>Defs/ThingDef</xpath>
+          <value>
+            <ThingDef ParentName="LoftBed">
+              <defName>SadjuukBedBA_loftbed</defName>
+              <label>Wooden loft bed</label>
+              <description>Beauty : 3
+Comfort : 75%
+Immunity : +5%
+Surgery : -10%
+Tending : +0%
+A comfortable raised bed made of wood giving a soft atmosphere to a room.</description>
+              <graphicData>
+                <texPath>SadjuukLoftBeds/SadjuukBedroomBA_LoftBed</texPath>
+              </graphicData>
+              <statBases>
+                <MaxHitPoints>80</MaxHitPoints>
+                <WorkToBuild>1600</WorkToBuild>
+                <Flammability>0.8</Flammability>
+                <BedRestEffectiveness>1</BedRestEffectiveness>
+                <Comfort>0.75</Comfort>
+                <ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+                <SurgerySuccessChanceFactor>0.9</SurgerySuccessChanceFactor>
+                <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">2</BirthRitualQualityOffset>
+                <Beauty>3</Beauty>
+                <Mass>45</Mass>
+              </statBases>
+              <techLevel>Medieval</techLevel>
+              <stuffCategories Inherit="False" />
+              <costStuffCount Inherit="False" />
+              <costList Inherit="False">
+                <WoodLog>40</WoodLog>
+                <Cloth>40</Cloth>
+              </costList>
+              <building>
+                <bed_showSleeperBody>false</bed_showSleeperBody>
+                <bed_healPerDay>4</bed_healPerDay>
+              </building>
+              <uiIconPath>SadjuukLoftBeds/SadjuukBedroomBA_LoftBed_MenuIcon</uiIconPath>
+              <constructEffect>ConstructWood</constructEffect>
+              <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+              <researchPrerequisites>
+                <li>ComplexFurniture</li>
+              </researchPrerequisites>
+              <designationCategory>SadjuukUN-Furniture</designationCategory>
+              <fillPercent>0.4</fillPercent>
+              <passability>PassThroughOnly</passability>
+              <pathCost>60</pathCost>
+              <castEdgeShadows>True</castEdgeShadows>
+              <staticSunShadowHeight>0.2</staticSunShadowHeight>
+              <comps>
+                <li Class="CompProperties_AffectedByFacilities">
+                  <linkableFacilities>
+                    <li>SadjuukBedroomUpgradeAA</li>
+                    <li>SadjuukBedroomUpgradeAB</li>
+                    <li>SadjuukBedroomUpgradeAF</li>
+                    <li>SadjuukBedroomUpgradeAC</li>
+                    <li>SadjuukBedroomUpgradeBA</li>
+                    <li>SadjuukBedroomUpgradeBB</li>
+                    <li>SadjuukBedroomUpgradeBF</li>
+                    <li>SadjuukBedroomUpgradeBC</li>
+                    <li>SadjuukBedroomUpgradeCA</li>
+                    <li>SadjuukBedroomUpgradeCB</li>
+                    <li>SadjuukBedroomUpgradeCF</li>
+                    <li>SadjuukBedroomUpgradeCC</li>
+                    <li>SadjuukBedroomUpgradeCD</li>
+                    <li>SadjuukHospitalUpgradeBA</li>
+                    <li>SadjuukHospitalUpgradeBB</li>
+                    <li>SadjuukHospitalUpgradeCA</li>
+                    <li>SadjuukHospitalUpgradeCB</li>
+                    <li>SadjuukHospitalUpgradeCD</li>
+                    <li>SadjuukHospitalUpgradeCE</li>
+                    <li>EndTable</li>
+                    <li>Dresser</li>
+                    <li>VitalsMonitor</li>
+                    <li MayRequire="Ludeon.RimWorld.Ideology">SleepAccelerator</li>
+                  </linkableFacilities>
+                </li>
+              </comps>
+            </ThingDef>
+          </value>
+        </li>
+        <li Class="PatchOperationInsert">
+          <xpath>Defs/ThingDef</xpath>
+          <value>
+            <ThingDef ParentName="LoftBed">
+              <defName>SadjuukBedCA_loftbed</defName>
+              <label>Steel loft bed</label>
+              <description>Beauty : 1
+Comfort : 70%
+Immunity : +8%
+Surgery : -10%
+Tending : +0%
+A standard steel bed. Perfect for barracks, it also offers good hygiene properties.</description>
+              <graphicData>
+                <texPath>SadjuukLoftBeds/SadjuukBedroomCA_LoftBed</texPath>
+              </graphicData>
+              <statBases>
+                <MaxHitPoints>150</MaxHitPoints>
+                <WorkToBuild>1600</WorkToBuild>
+                <Flammability>0.8</Flammability>
+                <BedRestEffectiveness>1</BedRestEffectiveness>
+                <Comfort>0.70</Comfort>
+                <ImmunityGainSpeedFactor>1.08</ImmunityGainSpeedFactor>
+                <SurgerySuccessChanceFactor>0.9</SurgerySuccessChanceFactor>
+                <BirthRitualQualityOffset MayRequire="Ludeon.RimWorld.Biotech">2</BirthRitualQualityOffset>
+                <Beauty>1</Beauty>
+                <Mass>70</Mass>
+              </statBases>
+              <techLevel>Industrial</techLevel>
+              <stuffCategories Inherit="False" />
+              <costStuffCount Inherit="False" />
+              <costList Inherit="False">
+                <Steel>40</Steel>
+                <Cloth>40</Cloth>
+              </costList>
+              <building>
+                <bed_showSleeperBody>false</bed_showSleeperBody>
+                <bed_healPerDay>4</bed_healPerDay>
+              </building>
+              <uiIconPath>SadjuukLoftBeds/SadjuukBedroomCA_LoftBed_MenuIcon</uiIconPath>
+              <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+              <researchPrerequisites>
+                <li>SadjuukFurnitureA</li>
+              </researchPrerequisites>
+              <designationCategory>SadjuukUN-Furniture</designationCategory>
+              <fillPercent>0.4</fillPercent>
+              <passability>PassThroughOnly</passability>
+              <pathCost>60</pathCost>
+              <castEdgeShadows>True</castEdgeShadows>
+              <staticSunShadowHeight>0.2</staticSunShadowHeight>
+              <comps>
+                <li Class="CompProperties_AffectedByFacilities">
+                  <linkableFacilities>
+                    <li>SadjuukBedroomUpgradeAA</li>
+                    <li>SadjuukBedroomUpgradeAB</li>
+                    <li>SadjuukBedroomUpgradeAF</li>
+                    <li>SadjuukBedroomUpgradeAC</li>
+                    <li>SadjuukBedroomUpgradeBA</li>
+                    <li>SadjuukBedroomUpgradeBB</li>
+                    <li>SadjuukBedroomUpgradeBF</li>
+                    <li>SadjuukBedroomUpgradeBC</li>
+                    <li>SadjuukBedroomUpgradeCA</li>
+                    <li>SadjuukBedroomUpgradeCB</li>
+                    <li>SadjuukBedroomUpgradeCF</li>
+                    <li>SadjuukBedroomUpgradeCC</li>
+                    <li>SadjuukBedroomUpgradeCD</li>
+                    <li>SadjuukHospitalUpgradeBA</li>
+                    <li>SadjuukHospitalUpgradeBB</li>
+                    <li>SadjuukHospitalUpgradeCA</li>
+                    <li>SadjuukHospitalUpgradeCB</li>
+                    <li>SadjuukHospitalUpgradeCD</li>
+                    <li>SadjuukHospitalUpgradeCE</li>
+                    <li>EndTable</li>
+                    <li>Dresser</li>
+                    <li>VitalsMonitor</li>
+                    <li MayRequire="Ludeon.RimWorld.Ideology">SleepAccelerator</li>
+                  </linkableFacilities>
+                </li>
+              </comps>
+            </ThingDef>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

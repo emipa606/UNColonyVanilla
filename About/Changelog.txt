@@ -1,5 +1,8 @@
 # Changelog for UNColonyVanilla
 
+1.4.3 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2961708299]Loft Bed[/url] patching in loft versions or some beds
+
+
 1.4.2 - Added support for Sleep accelerator and added Birthquality offsets
 
 
