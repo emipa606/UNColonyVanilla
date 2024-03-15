@@ -8,6 +8,7 @@
     <li>1.2</li>
     <li>1.3</li>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
@@ -19,6 +20,7 @@ Update of Sadjuuks mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003
 
 - Since I already have a mod named UN-Colony, I renamed this to reflect that it uses vanilla resources
+- Added a loft-version of the log bed, wooden bed and the steel bed if [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2961708299]Loft Bed[/url] is loaded
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
 
@@ -97,10 +99,14 @@ Production :
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list]
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2894831795]Last updated 2023-04-17[/url]</description>
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2894831795][img]https://img.shields.io/github/v/release/emipa606/UNColonyVanilla?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+  <modIconPath IgnoreIfNoMatchingField="True">ModIcon/UNColonyVanilla</modIconPath>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
 </ModMetaData>
