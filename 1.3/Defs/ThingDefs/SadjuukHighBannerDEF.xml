@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- SadjuukBannerBase: Base All Banners -->
   <ThingDef Abstract="True" Name="SadjuukBannerBase" ParentName="BuildingBase">

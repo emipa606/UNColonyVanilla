@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- SadjuukPaintBaseF : 1 Tile Paint -->
   <ThingDef Name="SadjuukPaintBaseF" ParentName="BuildingBase" Abstract="True">

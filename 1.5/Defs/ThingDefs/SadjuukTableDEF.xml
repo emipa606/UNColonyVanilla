@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- SadjuukTableBase : Base All Tables -->
   <ThingDef Abstract="True" ParentName="FurnitureWithQualityBase" Name="SadjuukTableBase">

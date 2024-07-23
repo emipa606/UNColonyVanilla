@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- SadjuukWallBase : Base All Walls and Embrassure -->
   <ThingDef ParentName="BuildingBase" Name="SadjuukWallBase" Abstract="True">

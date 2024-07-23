@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- SadjuukStorageBase : Base Storage -->
   <ThingDef Abstract="True" ParentName="FurnitureBase" Name="SadjuukStorageBase">
@@ -15,7 +15,12 @@
     <building>
       <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
       <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <maxItemsInCell>3</maxItemsInCell>
+      <paintable>true</paintable>
     </building>
+    <comps>
+      <li Class="CompProperties_Styleable" />
+    </comps>
   </ThingDef>
   <!-- SadjuukStorageBaseA : Log Storage -->
   <ThingDef Abstract="True" ParentName="SadjuukStorageBase" Name="SadjuukStorageBaseA">
