@@ -27,13 +27,40 @@
     <staticSunShadowHeight>1.0</staticSunShadowHeight>
     <canOverlapZones>false</canOverlapZones>
     <blockLight>true</blockLight>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>2</multiplier>
+      </li>
+      <li>
+        <damageDef>Thump</damageDef>
+        <multiplier>2</multiplier>
+      </li>
+    </damageMultipliers>
     <building>
+      <paintable>true</paintable>
       <isInert>true</isInert>
+      <isPlaceOverableWall>true</isPlaceOverableWall>
       <ai_chillDestination>false</ai_chillDestination>
+      <supportsWallAttachments>true</supportsWallAttachments>
       <blueprintGraphicData>
         <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
       </blueprintGraphicData>
+      <relatedBuildCommands>
+        <li>Door</li>
+        <li>Autodoor</li>
+        <li>OrnateDoor</li>
+        <li MayRequire="Ludeon.RimWorld.Anomaly">SecurityDoor</li>
+      </relatedBuildCommands>
     </building>
+    <comps>
+      <li Class="CompProperties_MeditationFocus">
+        <statDef>MeditationFocusStrength</statDef>
+        <focusTypes>
+          <li>Minimal</li>
+        </focusTypes>
+      </li>
+    </comps>
     <designationCategory>SadjuukUN-Building</designationCategory>
   </ThingDef>
   <!-- SadjuukWallAA (Log Wall) -->
