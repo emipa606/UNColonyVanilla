@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Wood Fence -->
+  <SadjuukFenceA.label>Wood Fence</SadjuukFenceA.label>
+  <!-- EN: HP : 200\nFlammability : 100%\nCover : 40%\nA rustic but good wooden fence. -->
+  <SadjuukFenceA.description>HP : 200
+Flammability : 100%
+Cover : 40%
+A rustic but good wooden fence.</SadjuukFenceA.description>
+  <!-- EN: Grid Fence -->
+  <SadjuukFenceB.label>Grid Fence</SadjuukFenceB.label>
+  <!-- EN: HP : 450\nFlammability : 20%\nCover : 20%\nAn industrial metal grid fence. -->
+  <SadjuukFenceB.description>HP : 450
+Flammability : 20%
+Cover : 20%
+An industrial metal grid fence.</SadjuukFenceB.description>
+  <!-- EN: Glass Partition -->
+  <SadjuukFenceC.label>Glass Partition</SadjuukFenceC.label>
+  <!-- EN: HP : 200\nFlammability : 20%\nBeauty : 2\nA very pleasant bullet-proof glass partition. Gives beauty to a room. -->
+  <SadjuukFenceC.description>HP : 200
+Flammability : 20%
+Beauty : 2
+A very pleasant bullet-proof glass partition. Gives beauty to a room.</SadjuukFenceC.description>
+  <!-- EN: Concrete Fence -->
+  <SadjuukFenceD.label>Concrete Fence</SadjuukFenceD.label>
+  <!-- EN: HP : 500\nFlammability : 0%\nAn industrial concrete fence. -->
+  <SadjuukFenceD.description>HP : 500
+Flammability : 0%
+An industrial concrete fence.</SadjuukFenceD.description>
+  <!-- EN: Wooden Gate (H) -->
+  <SadjuukGateGH.label>Wooden Gate (H)</SadjuukGateGH.label>
+  <!-- EN: HP : 100\nFlammability : 100%\nA rustic Wooden gate. -->
+  <SadjuukGateGH.description>HP : 100
+Flammability : 100%
+A rustic Wooden gate.</SadjuukGateGH.description>
+  <!-- EN: Wooden Gate (V) -->
+  <SadjuukGateGV.label>Wooden Gate (V)</SadjuukGateGV.label>
+  <!-- EN: HP : 100\nFlammability : 100%\nA rustic Wooden gate. -->
+  <SadjuukGateGV.description>HP : 100
+Flammability : 100%
+A rustic Wooden gate.</SadjuukGateGV.description>
+  <!-- EN: Grid Gate (H) -->
+  <SadjuukGateHH.label>Grid Gate (H)</SadjuukGateHH.label>
+  <!-- EN: HP : 225\nFlammability : 20%\nCover : 20%\nAn industrial metal grid gate. -->
+  <SadjuukGateHH.description>HP : 225
+Flammability : 20%
+Cover : 20%
+An industrial metal grid gate.</SadjuukGateHH.description>
+  <!-- EN: Grid Gate (V) -->
+  <SadjuukGateHV.label>Grid Gate (V)</SadjuukGateHV.label>
+  <!-- EN: HP : 225\nFlammability : 20%\nCover : 20%\nAn industrial metal grid gate. -->
+  <SadjuukGateHV.description>HP : 225
+Flammability : 20%
+Cover : 20%
+An industrial metal grid gate.</SadjuukGateHV.description>
+  <!-- EN: Glass Autodoor (H) -->
+  <SadjuukGateIH.label>Glass Autodoor (H)</SadjuukGateIH.label>
+  <!-- EN: HP : 100\nFlammability : 20%\nPower : 50W\nBeauty : 2\nA very pleasant bullet-proof glass Autodoor. Gives beauty to a room. -->
+  <SadjuukGateIH.description>HP : 100
+Flammability : 20%
+Power : 50W
+Beauty : 2
+A very pleasant bullet-proof glass Autodoor. Gives beauty to a room.</SadjuukGateIH.description>
+  <!-- EN: Glass Autodoor (V) -->
+  <SadjuukGateIV.label>Glass Autodoor (V)</SadjuukGateIV.label>
+  <!-- EN: HP : 100\nFlammability : 20%\nPower : 50W\nBeauty : 2\nA very pleasant bullet-proof glass Autodoor. Gives beauty to a room. -->
+  <SadjuukGateIV.description>HP : 100
+Flammability : 20%
+Power : 50W
+Beauty : 2
+A very pleasant bullet-proof glass Autodoor. Gives beauty to a room.</SadjuukGateIV.description>
+</LanguageData>

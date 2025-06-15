@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Blue Floor Light -->
+  <SadjuukLightAB.label>Blue Floor Light</SadjuukLightAB.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 6\nA lamp integrated into the floor, mainly used for outdoor storage areas. -->
+  <SadjuukLightAB.description>HP : 150
+Power : 30W
+Light : 6
+A lamp integrated into the floor, mainly used for outdoor storage areas.</SadjuukLightAB.description>
+  <!-- EN: Green Floor Light -->
+  <SadjuukLightAG.label>Green Floor Light</SadjuukLightAG.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 6\nA lamp integrated into the floor, mainly used for outdoor storage areas. -->
+  <SadjuukLightAG.description>HP : 150
+Power : 30W
+Light : 6
+A lamp integrated into the floor, mainly used for outdoor storage areas.</SadjuukLightAG.description>
+  <!-- EN: Red Floor Light -->
+  <SadjuukLightAR.label>Red Floor Light</SadjuukLightAR.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 6\nA lamp integrated into the floor, mainly used for outdoor storage areas. -->
+  <SadjuukLightAR.description>HP : 150
+Power : 30W
+Light : 6
+A lamp integrated into the floor, mainly used for outdoor storage areas.</SadjuukLightAR.description>
+  <!-- EN: White Floor Light -->
+  <SadjuukLightAW.label>White Floor Light</SadjuukLightAW.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 6\nA lamp integrated into the floor, mainly used for outdoor storage areas. -->
+  <SadjuukLightAW.description>HP : 150
+Power : 30W
+Light : 6
+A lamp integrated into the floor, mainly used for outdoor storage areas.</SadjuukLightAW.description>
+  <!-- EN: Yellow Floor Light -->
+  <SadjuukLightAY.label>Yellow Floor Light</SadjuukLightAY.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 6\nA lamp integrated into the floor, mainly used for outdoor storage areas. -->
+  <SadjuukLightAY.description>HP : 150
+Power : 30W
+Light : 6
+A lamp integrated into the floor, mainly used for outdoor storage areas.</SadjuukLightAY.description>
+  <!-- EN: Blue Spot Light -->
+  <SadjuukLightBB.label>Blue Spot Light</SadjuukLightBB.label>
+  <!-- EN: HP : 150\nPower : 60W\nLight : 16\nA powerful and efficient Industrial Spot Light. -->
+  <SadjuukLightBB.description>HP : 150
+Power : 60W
+Light : 16
+A powerful and efficient Industrial Spot Light.</SadjuukLightBB.description>
+  <!-- EN: Green Spot Light -->
+  <SadjuukLightBG.label>Green Spot Light</SadjuukLightBG.label>
+  <!-- EN: HP : 150\nPower : 60W\nLight : 16\nA powerful and efficient Industrial Spot Light. -->
+  <SadjuukLightBG.description>HP : 150
+Power : 60W
+Light : 16
+A powerful and efficient Industrial Spot Light.</SadjuukLightBG.description>
+  <!-- EN: Red Spot Light -->
+  <SadjuukLightBR.label>Red Spot Light</SadjuukLightBR.label>
+  <!-- EN: HP : 150\nPower : 60W\nLight : 16\nA powerful and efficient Industrial Spot Light. -->
+  <SadjuukLightBR.description>HP : 150
+Power : 60W
+Light : 16
+A powerful and efficient Industrial Spot Light.</SadjuukLightBR.description>
+  <!-- EN: White Spot Light -->
+  <SadjuukLightBW.label>White Spot Light</SadjuukLightBW.label>
+  <!-- EN: HP : 150\nPower : 60W\nLight : 16\nA powerful and efficient Industrial Spot Light. -->
+  <SadjuukLightBW.description>HP : 150
+Power : 60W
+Light : 16
+A powerful and efficient Industrial Spot Light.</SadjuukLightBW.description>
+  <!-- EN: Yellow Spot Light -->
+  <SadjuukLightBY.label>Yellow Spot Light</SadjuukLightBY.label>
+  <!-- EN: HP : 150\nPower : 60W\nLight : 16\nA powerful and efficient Industrial Spot Light. -->
+  <SadjuukLightBY.description>HP : 150
+Power : 60W
+Light : 16
+A powerful and efficient Industrial Spot Light.</SadjuukLightBY.description>
+  <!-- EN: Blue Spot Light -->
+  <SadjuukLightCB.label>Blue Spot Light</SadjuukLightCB.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nAn Industrial Spot Light used in all areas. -->
+  <SadjuukLightCB.description>HP : 150
+Power : 30W
+Light : 12
+An Industrial Spot Light used in all areas.</SadjuukLightCB.description>
+  <!-- EN: Green Spot Light -->
+  <SadjuukLightCG.label>Green Spot Light</SadjuukLightCG.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nAn Industrial Spot Light used in all areas. -->
+  <SadjuukLightCG.description>HP : 150
+Power : 30W
+Light : 12
+An Industrial Spot Light used in all areas.</SadjuukLightCG.description>
+  <!-- EN: Red Spot Light -->
+  <SadjuukLightCR.label>Red Spot Light</SadjuukLightCR.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nAn Industrial Spot Light used in all areas. -->
+  <SadjuukLightCR.description>HP : 150
+Power : 30W
+Light : 12
+An Industrial Spot Light used in all areas.</SadjuukLightCR.description>
+  <!-- EN: White Spot Light -->
+  <SadjuukLightCW.label>White Spot Light</SadjuukLightCW.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nAn Industrial Spot Light used in all areas. -->
+  <SadjuukLightCW.description>HP : 150
+Power : 30W
+Light : 12
+An Industrial Spot Light used in all areas.</SadjuukLightCW.description>
+  <!-- EN: Yellow Spot Light -->
+  <SadjuukLightCY.label>Yellow Spot Light</SadjuukLightCY.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nAn Industrial Spot Light used in all areas. -->
+  <SadjuukLightCY.description>HP : 150
+Power : 30W
+Light : 12
+An Industrial Spot Light used in all areas.</SadjuukLightCY.description>
+  <!-- EN: Blue Wall Light -->
+  <SadjuukLightDB.label>Blue Wall Light</SadjuukLightDB.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nA rustic designed wall lamp that can be placed outdoors without a problem. -->
+  <SadjuukLightDB.description>HP : 150
+Power : 30W
+Light : 12
+A rustic designed wall lamp that can be placed outdoors without a problem.</SadjuukLightDB.description>
+  <!-- EN: Green Wall Light -->
+  <SadjuukLightDG.label>Green Wall Light</SadjuukLightDG.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nA rustic designed wall lamp that can be placed outdoors without a problem. -->
+  <SadjuukLightDG.description>HP : 150
+Power : 30W
+Light : 12
+A rustic designed wall lamp that can be placed outdoors without a problem.</SadjuukLightDG.description>
+  <!-- EN: Red Wall Light -->
+  <SadjuukLightDR.label>Red Wall Light</SadjuukLightDR.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nA rustic designed wall lamp that can be placed outdoors without a problem. -->
+  <SadjuukLightDR.description>HP : 150
+Power : 30W
+Light : 12
+A rustic designed wall lamp that can be placed outdoors without a problem.</SadjuukLightDR.description>
+  <!-- EN: White Wall Light -->
+  <SadjuukLightDW.label>White Wall Light</SadjuukLightDW.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nA rustic designed wall lamp that can be placed outdoors without a problem. -->
+  <SadjuukLightDW.description>HP : 150
+Power : 30W
+Light : 12
+A rustic designed wall lamp that can be placed outdoors without a problem.</SadjuukLightDW.description>
+  <!-- EN: Yellow Wall Light -->
+  <SadjuukLightDY.label>Yellow Wall Light</SadjuukLightDY.label>
+  <!-- EN: HP : 150\nPower : 30W\nLight : 12\nA rustic designed wall lamp that can be placed outdoors without a problem. -->
+  <SadjuukLightDY.description>HP : 150
+Power : 30W
+Light : 12
+A rustic designed wall lamp that can be placed outdoors without a problem.</SadjuukLightDY.description>
+  <!-- EN: Blue Wall Light -->
+  <SadjuukLightEB.label>Blue Wall Light</SadjuukLightEB.label>
+  <!-- EN: HP : 75\nPower : 30W\nLight : 12\nA simple wall lamp, rather to install indoors. -->
+  <SadjuukLightEB.description>HP : 75
+Power : 30W
+Light : 12
+A simple wall lamp, rather to install indoors.</SadjuukLightEB.description>
+  <!-- EN: Green Wall Light -->
+  <SadjuukLightEG.label>Green Wall Light</SadjuukLightEG.label>
+  <!-- EN: HP : 75\nPower : 30W\nLight : 12\nA simple wall lamp, rather to install indoors. -->
+  <SadjuukLightEG.description>HP : 75
+Power : 30W
+Light : 12
+A simple wall lamp, rather to install indoors.</SadjuukLightEG.description>
+  <!-- EN: Red Wall Light -->
+  <SadjuukLightER.label>Red Wall Light</SadjuukLightER.label>
+  <!-- EN: HP : 75\nPower : 30W\nLight : 12\nA simple wall lamp, rather to install indoors. -->
+  <SadjuukLightER.description>HP : 75
+Power : 30W
+Light : 12
+A simple wall lamp, rather to install indoors.</SadjuukLightER.description>
+  <!-- EN: White Wall Light -->
+  <SadjuukLightEW.label>White Wall Light</SadjuukLightEW.label>
+  <!-- EN: HP : 75\nPower : 30W\nLight : 12\nA simple wall lamp, rather to install indoors. -->
+  <SadjuukLightEW.description>HP : 75
+Power : 30W
+Light : 12
+A simple wall lamp, rather to install indoors.</SadjuukLightEW.description>
+  <!-- EN: Yellow Wall Light -->
+  <SadjuukLightEY.label>Yellow Wall Light</SadjuukLightEY.label>
+  <!-- EN: HP : 75\nPower : 30W\nLight : 12\nA simple wall lamp, rather to install indoors. -->
+  <SadjuukLightEY.description>HP : 75
+Power : 30W
+Light : 12
+A simple wall lamp, rather to install indoors.</SadjuukLightEY.description>
+  <!-- EN: White Street Light -->
+  <SadjuukLightFW.label>White Street Light</SadjuukLightFW.label>
+  <!-- EN: HP : 300\nPower : 60W\nLight : 16\nAn industrial street lamp allowing to illuminate outside on a large perimeter. -->
+  <SadjuukLightFW.description>HP : 300
+Power : 60W
+Light : 16
+An industrial street lamp allowing to illuminate outside on a large perimeter.</SadjuukLightFW.description>
+  <!-- EN: Yellow Street Light -->
+  <SadjuukLightFY.label>Yellow Street Light</SadjuukLightFY.label>
+  <!-- EN: HP : 300\nPower : 60W\nLight : 16\nAn industrial street lamp allowing to illuminate outside on a large perimeter. -->
+  <SadjuukLightFY.description>HP : 300
+Power : 60W
+Light : 16
+An industrial street lamp allowing to illuminate outside on a large perimeter.</SadjuukLightFY.description>
+  <!-- EN: White Street Light -->
+  <SadjuukLightGW.label>White Street Light</SadjuukLightGW.label>
+  <!-- EN: HP : 300\nPower : 60W\nLight : 16\nAn industrial street lamp allowing to illuminate outside on a large perimeter. -->
+  <SadjuukLightGW.description>HP : 300
+Power : 60W
+Light : 16
+An industrial street lamp allowing to illuminate outside on a large perimeter.</SadjuukLightGW.description>
+  <!-- EN: Yellow Street Light -->
+  <SadjuukLightGY.label>Yellow Street Light</SadjuukLightGY.label>
+  <!-- EN: HP : 300\nPower : 60W\nLight : 16\nAn industrial street lamp allowing to illuminate outside on a large perimeter. -->
+  <SadjuukLightGY.description>HP : 300
+Power : 60W
+Light : 16
+An industrial street lamp allowing to illuminate outside on a large perimeter.</SadjuukLightGY.description>
+</LanguageData>

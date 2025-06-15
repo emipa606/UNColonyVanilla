@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Silicon Extractor -->
+  <SadjuukExtractorA.label>Silicon Extractor</SadjuukExtractorA.label>
+  <!-- EN: HP : 450\nPower : 600W\nA very complex machinery capable of extracting silicon from the rock. Produce construction components like glass and concrete from stone. -->
+  <SadjuukExtractorA.description>HP : 450
+Power : 600W
+A very complex machinery capable of extracting silicon from the rock. Produce construction components like glass and concrete from stone.</SadjuukExtractorA.description>
+  <!-- EN: Mineral Heater -->
+  <SadjuukExtractorUpgradeA.label>Mineral Heater</SadjuukExtractorUpgradeA.label>
+  <!-- EN: HP : 150\nPower : 450W\nSpeed : +15%\nExtractor Upgrade : Improve the speed of the Silicon Extractor by heating mineral residues in a very high temperature air circuit. -->
+  <SadjuukExtractorUpgradeA.description>HP : 150
+Power : 450W
+Speed : +15%
+Extractor Upgrade : Improve the speed of the Silicon Extractor by heating mineral residues in a very high temperature air circuit.</SadjuukExtractorUpgradeA.description>
+</LanguageData>

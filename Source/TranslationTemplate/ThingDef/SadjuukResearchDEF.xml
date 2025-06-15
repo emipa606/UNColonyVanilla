@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Research Spot -->
+  <SadjuukResearchAA.label>Research Spot</SadjuukResearchAA.label>
+  <!-- EN: Beauty : 2\nA place where primitive experiences can be conducted. -->
+  <SadjuukResearchAA.description>Beauty : 2
+A place where primitive experiences can be conducted.</SadjuukResearchAA.description>
+  <!-- EN: Research Desk -->
+  <SadjuukResearchBA.label>Research Desk</SadjuukResearchBA.label>
+  <!-- EN: Beauty : 12\nA wooden desk to comfortably focus on your research with serenity. -->
+  <SadjuukResearchBA.description>Beauty : 12
+A wooden desk to comfortably focus on your research with serenity.</SadjuukResearchBA.description>
+  <!-- EN: Research Station -->
+  <SadjuukResearchCA.label>Research Station</SadjuukResearchCA.label>
+  <!-- EN: Beauty : 2\nPower : 150W\nA research Station equipped with IT and measurement tools. -->
+  <SadjuukResearchCA.description>Beauty : 2
+Power : 150W
+A research Station equipped with IT and measurement tools.</SadjuukResearchCA.description>
+  <!-- EN: Jade Calendar -->
+  <SadjuukResearchUpgradeAA.label>Jade Calendar</SadjuukResearchUpgradeAA.label>
+  <!-- EN: Beauty : 16\nResearch Upgrade : A primitive calendar, giving the position of the stars and seasons. -->
+  <SadjuukResearchUpgradeAA.description>Beauty : 16
+Research Upgrade : A primitive calendar, giving the position of the stars and seasons.</SadjuukResearchUpgradeAA.description>
+  <!-- EN: Research library -->
+  <SadjuukResearchUpgradeBA.label>Research library</SadjuukResearchUpgradeBA.label>
+  <!-- EN: Beauty : 12\nSpeed : +6%\nResearch Upgrade : A large library collecting acquired knowledge. -->
+  <SadjuukResearchUpgradeBA.description>Beauty : 12
+Speed : +6%
+Research Upgrade : A large library collecting acquired knowledge.</SadjuukResearchUpgradeBA.description>
+  <!-- EN: Globe -->
+  <SadjuukResearchUpgradeBB.label>Globe</SadjuukResearchUpgradeBB.label>
+  <!-- EN: Beauty : 12\nSpeed : +6%\nResearch Upgrade : A globe focusing on geography and geology. -->
+  <SadjuukResearchUpgradeBB.description>Beauty : 12
+Speed : +6%
+Research Upgrade : A globe focusing on geography and geology.</SadjuukResearchUpgradeBB.description>
+  <!-- EN: Small Library -->
+  <SadjuukResearchUpgradeBC.label>Small Library</SadjuukResearchUpgradeBC.label>
+  <!-- EN: Beauty : 12\nSpeed : +3%\nResearch Upgrade : 2 of these small libraries can be used with a research space. A small library very rich in knowledge -->
+  <SadjuukResearchUpgradeBC.description>Beauty : 12
+Speed : +3%
+Research Upgrade : 2 of these small libraries can be used with a research space. A small library very rich in knowledge</SadjuukResearchUpgradeBC.description>
+  <!-- EN: Blueprint Table -->
+  <SadjuukResearchUpgradeCA.label>Blueprint Table</SadjuukResearchUpgradeCA.label>
+  <!-- EN: Beauty : 2\nPower : 50W\nSpeed : +10%\nResearch Upgrade : The Blueprint Table allows to design machines with great precision. -->
+  <SadjuukResearchUpgradeCA.description>Beauty : 2
+Power : 50W
+Speed : +10%
+Research Upgrade : The Blueprint Table allows to design machines with great precision.</SadjuukResearchUpgradeCA.description>
+  <!-- EN: Archival Cabinet -->
+  <SadjuukResearchUpgradeCB.label>Archival Cabinet</SadjuukResearchUpgradeCB.label>
+  <!-- EN: Beauty : 2\nSpeed : +2%\nResearch Upgrade : 2 of these archival cabinets can be used with a research space. An efficient way to store the files and plans resulting from the research carried out. -->
+  <SadjuukResearchUpgradeCB.description>Beauty : 2
+Speed : +2%
+Research Upgrade : 2 of these archival cabinets can be used with a research space. An efficient way to store the files and plans resulting from the research carried out.</SadjuukResearchUpgradeCB.description>
+  <!-- EN: Computer Installation -->
+  <SadjuukResearchUpgradeCC.label>Computer Installation</SadjuukResearchUpgradeCC.label>
+  <!-- EN: Beauty : 2\nPower : 150W\nSpeed : +10%\nResearch Upgrade : 2 of these installations can be used with a research space. A complete IT installation dedicated to all types of research. -->
+  <SadjuukResearchUpgradeCC.description>Beauty : 2
+Power : 150W
+Speed : +10%
+Research Upgrade : 2 of these installations can be used with a research space. A complete IT installation dedicated to all types of research.</SadjuukResearchUpgradeCC.description>
+  <!-- EN: Computer Server -->
+  <SadjuukResearchUpgradeCD.label>Computer Server</SadjuukResearchUpgradeCD.label>
+  <!-- EN: Beauty : 2\nPower : 150W\nSpeed : +5%\nResearch Upgrade : 4 of these archival cabinets can be used with a research space. An advanced computer server allowing billions of algorithms to be linked. -->
+  <SadjuukResearchUpgradeCD.description>Beauty : 2
+Power : 150W
+Speed : +5%
+Research Upgrade : 4 of these archival cabinets can be used with a research space. An advanced computer server allowing billions of algorithms to be linked.</SadjuukResearchUpgradeCD.description>
+</LanguageData>

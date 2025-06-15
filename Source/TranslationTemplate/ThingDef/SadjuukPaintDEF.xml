@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Paint line Y -->
+  <SadjuukPaintAE.label>Paint line Y</SadjuukPaintAE.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAE.description>Painted lines.</SadjuukPaintAE.description>
+  <!-- EN: Paint line W -->
+  <SadjuukPaintAF.label>Paint line W</SadjuukPaintAF.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAF.description>Painted lines.</SadjuukPaintAF.description>
+  <!-- EN: Paint line B -->
+  <SadjuukPaintAG.label>Paint line B</SadjuukPaintAG.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAG.description>Painted lines.</SadjuukPaintAG.description>
+  <!-- EN: Paint line R -->
+  <SadjuukPaintAH.label>Paint line R</SadjuukPaintAH.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAH.description>Painted lines.</SadjuukPaintAH.description>
+  <!-- EN: Paint arrow Y -->
+  <SadjuukPaintBA.label>Paint arrow Y</SadjuukPaintBA.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintBA.description>Painted arrow.</SadjuukPaintBA.description>
+  <!-- EN: Paint arrow W -->
+  <SadjuukPaintBB.label>Paint arrow W</SadjuukPaintBB.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintBB.description>Painted arrow.</SadjuukPaintBB.description>
+  <!-- EN: Paint arrow B -->
+  <SadjuukPaintBC.label>Paint arrow B</SadjuukPaintBC.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintBC.description>Painted arrow.</SadjuukPaintBC.description>
+  <!-- EN: Paint arrow R -->
+  <SadjuukPaintBD.label>Paint arrow R</SadjuukPaintBD.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintBD.description>Painted arrow.</SadjuukPaintBD.description>
+  <!-- EN: Red Zebra (L) -->
+  <SadjuukPaintCA.label>Red Zebra (L)</SadjuukPaintCA.label>
+  <!-- EN: Painted Zebra. -->
+  <SadjuukPaintCA.description>Painted Zebra.</SadjuukPaintCA.description>
+  <!-- EN: Red Zebra (R) -->
+  <SadjuukPaintCB.label>Red Zebra (R)</SadjuukPaintCB.label>
+  <!-- EN: Painted Zebra. -->
+  <SadjuukPaintCB.description>Painted Zebra.</SadjuukPaintCB.description>
+  <!-- EN: Yellow Zebra (L) -->
+  <SadjuukPaintCC.label>Yellow Zebra (L)</SadjuukPaintCC.label>
+  <!-- EN: Painted Zebra. -->
+  <SadjuukPaintCC.description>Painted Zebra.</SadjuukPaintCC.description>
+  <!-- EN: Yellow Zebra (R) -->
+  <SadjuukPaintCD.label>Yellow Zebra (R)</SadjuukPaintCD.label>
+  <!-- EN: Painted Zebra. -->
+  <SadjuukPaintCD.description>Painted Zebra.</SadjuukPaintCD.description>
+  <!-- EN: Paint lines Y -->
+  <SadjuukPaintDA.label>Paint lines Y</SadjuukPaintDA.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintDA.description>Painted lines.</SadjuukPaintDA.description>
+  <!-- EN: Paint lines W -->
+  <SadjuukPaintDB.label>Paint lines W</SadjuukPaintDB.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintDB.description>Painted lines.</SadjuukPaintDB.description>
+  <!-- EN: Paint lines B -->
+  <SadjuukPaintDC.label>Paint lines B</SadjuukPaintDC.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintDC.description>Painted lines.</SadjuukPaintDC.description>
+  <!-- EN: Paint lines R -->
+  <SadjuukPaintDD.label>Paint lines R</SadjuukPaintDD.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintDD.description>Painted lines.</SadjuukPaintDD.description>
+  <!-- EN: Cryo Arrow -->
+  <SadjuukPaintFA.label>Cryo Arrow</SadjuukPaintFA.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintFA.description>Painted arrow.</SadjuukPaintFA.description>
+  <!-- EN: Armory Arrow -->
+  <SadjuukPaintFB.label>Armory Arrow</SadjuukPaintFB.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintFB.description>Painted arrow.</SadjuukPaintFB.description>
+  <!-- EN: Engineering Arrow -->
+  <SadjuukPaintFC.label>Engineering Arrow</SadjuukPaintFC.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintFC.description>Painted arrow.</SadjuukPaintFC.description>
+  <!-- EN: Bridge Arrow -->
+  <SadjuukPaintFD.label>Bridge Arrow</SadjuukPaintFD.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintFD.description>Painted arrow.</SadjuukPaintFD.description>
+</LanguageData>

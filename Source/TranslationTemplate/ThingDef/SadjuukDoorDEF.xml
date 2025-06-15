@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Log Door (H) -->
+  <SadjuukDoorAH.label>Log Door (H)</SadjuukDoorAH.label>
+  <!-- EN: HP : 100\nFlammability : 100%\nA very rustic door made of logs. -->
+  <SadjuukDoorAH.description>HP : 100
+Flammability : 100%
+A very rustic door made of logs.</SadjuukDoorAH.description>
+  <!-- EN: Log Door (V) -->
+  <SadjuukDoorAV.label>Log Door (V)</SadjuukDoorAV.label>
+  <!-- EN: HP : 100\nFlammability : 100%\nA very rustic door made of logs. -->
+  <SadjuukDoorAV.description>HP : 100
+Flammability : 100%
+A very rustic door made of logs.</SadjuukDoorAV.description>
+  <!-- EN: Plank Door (H) -->
+  <SadjuukDoorBH.label>Plank Door (H)</SadjuukDoorBH.label>
+  <!-- EN: HP : 175\nFlammability : 60%\nA very resistant wooden door. -->
+  <SadjuukDoorBH.description>HP : 175
+Flammability : 60%
+A very resistant wooden door.</SadjuukDoorBH.description>
+  <!-- EN: Plank Door (V) -->
+  <SadjuukDoorBV.label>Plank Door (V)</SadjuukDoorBV.label>
+  <!-- EN: HP : 175\nFlammability : 60%\nA very resistant wooden door. -->
+  <SadjuukDoorBV.description>HP : 175
+Flammability : 60%
+A very resistant wooden door.</SadjuukDoorBV.description>
+  <!-- EN: Tin Door (H) -->
+  <SadjuukDoorCH.label>Tin Door (H)</SadjuukDoorCH.label>
+  <!-- EN: HP : 225\nFlammability : 20%\nA rustic wooden door reinforced with steel. -->
+  <SadjuukDoorCH.description>HP : 225
+Flammability : 20%
+A rustic wooden door reinforced with steel.</SadjuukDoorCH.description>
+  <!-- EN: Tin Door (V) -->
+  <SadjuukDoorCV.label>Tin Door (V)</SadjuukDoorCV.label>
+  <!-- EN: HP : 225\nFlammability : 20%\nA rustic wooden door reinforced with steel. -->
+  <SadjuukDoorCV.description>HP : 225
+Flammability : 20%
+A rustic wooden door reinforced with steel.</SadjuukDoorCV.description>
+  <!-- EN: Steel Door (H) -->
+  <SadjuukDoorDH.label>Steel Door (H)</SadjuukDoorDH.label>
+  <!-- EN: HP : 500\nFlammability : 10%\nA standard steel door. -->
+  <SadjuukDoorDH.description>HP : 500
+Flammability : 10%
+A standard steel door.</SadjuukDoorDH.description>
+  <!-- EN: Steel Door (V) -->
+  <SadjuukDoorDV.label>Steel Door (V)</SadjuukDoorDV.label>
+  <!-- EN: HP : 500\nFlammability : 10%\nA standard steel door. -->
+  <SadjuukDoorDV.description>HP : 500
+Flammability : 10%
+A standard steel door.</SadjuukDoorDV.description>
+  <!-- EN: Armored AutoDoor (H) -->
+  <SadjuukDoorEH.label>Armored AutoDoor (H)</SadjuukDoorEH.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nPower : 50W\nA heavy Armored autodoor, normally used to seal arsenals, armored positions or bunkers. -->
+  <SadjuukDoorEH.description>HP : 1000
+Flammability : 0%
+Power : 50W
+A heavy Armored autodoor, normally used to seal arsenals, armored positions or bunkers.</SadjuukDoorEH.description>
+  <!-- EN: Armored AutoDoor (V) -->
+  <SadjuukDoorEV.label>Armored AutoDoor (V)</SadjuukDoorEV.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nPower : 50W\nA heavy Armored autodoor, normally used to seal arsenals, armored positions or bunkers. -->
+  <SadjuukDoorEV.description>HP : 1000
+Flammability : 0%
+Power : 50W
+A heavy Armored autodoor, normally used to seal arsenals, armored positions or bunkers.</SadjuukDoorEV.description>
+  <!-- EN: Armored Door (H) -->
+  <SadjuukDoorFH.label>Armored Door (H)</SadjuukDoorFH.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nA heavy Armored door, normally used to seal arsenals, armored positions or bunkers. -->
+  <SadjuukDoorFH.description>HP : 1000
+Flammability : 0%
+A heavy Armored door, normally used to seal arsenals, armored positions or bunkers.</SadjuukDoorFH.description>
+  <!-- EN: Armored Door (V) -->
+  <SadjuukDoorFV.label>Armored Door (V)</SadjuukDoorFV.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nA heavy Armored door, normally used to seal arsenals, armored positions or bunkers. -->
+  <SadjuukDoorFV.description>HP : 1000
+Flammability : 0%
+A heavy Armored door, normally used to seal arsenals, armored positions or bunkers.</SadjuukDoorFV.description>
+  <!-- EN: Steel AutoDoor (H) -->
+  <SadjuukDoorGH.label>Steel AutoDoor (H)</SadjuukDoorGH.label>
+  <!-- EN: HP : 500\nFlammability : 10%\nPower : 50W\nA standard steel autodoor. -->
+  <SadjuukDoorGH.description>HP : 500
+Flammability : 10%
+Power : 50W
+A standard steel autodoor.</SadjuukDoorGH.description>
+  <!-- EN: Steel AutoDoor (V) -->
+  <SadjuukDoorGV.label>Steel AutoDoor (V)</SadjuukDoorGV.label>
+  <!-- EN: HP : 500\nFlammability : 10%\nPower : 50W\nA standard steel autodoor. -->
+  <SadjuukDoorGV.description>HP : 500
+Flammability : 10%
+Power : 50W
+A standard steel autodoor.</SadjuukDoorGV.description>
+  <!-- EN: Plasteel AutoDoor (H) -->
+  <SadjuukDoorJH.label>Plasteel AutoDoor (H)</SadjuukDoorJH.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nPower : 50W\nA heavy but flexible Plasteel AutoDoor made with advanced components. -->
+  <SadjuukDoorJH.description>HP : 2000
+Flammability : 0%
+Power : 50W
+A heavy but flexible Plasteel AutoDoor made with advanced components.</SadjuukDoorJH.description>
+  <!-- EN: Plasteel AutoDoor (V) -->
+  <SadjuukDoorJV.label>Plasteel AutoDoor (V)</SadjuukDoorJV.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nPower : 50W\nA heavy but flexible Plasteel AutoDoor made with advanced components. -->
+  <SadjuukDoorJV.description>HP : 2000
+Flammability : 0%
+Power : 50W
+A heavy but flexible Plasteel AutoDoor made with advanced components.</SadjuukDoorJV.description>
+  <!-- EN: Plasteel AutoDoor (H) -->
+  <SadjuukDoorKH.label>Plasteel AutoDoor (H)</SadjuukDoorKH.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nPower : 50W\nA heavy but flexible Plasteel AutoDoor made with advanced components. -->
+  <SadjuukDoorKH.description>HP : 2000
+Flammability : 0%
+Power : 50W
+A heavy but flexible Plasteel AutoDoor made with advanced components.</SadjuukDoorKH.description>
+  <!-- EN: Plasteel AutoDoor (V) -->
+  <SadjuukDoorKV.label>Plasteel AutoDoor (V)</SadjuukDoorKV.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nPower : 50W\nA heavy but flexible Plasteel AutoDoor made with advanced components. -->
+  <SadjuukDoorKV.description>HP : 2000
+Flammability : 0%
+Power : 50W
+A heavy but flexible Plasteel AutoDoor made with advanced components.</SadjuukDoorKV.description>
+</LanguageData>

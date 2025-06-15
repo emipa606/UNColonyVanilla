@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Log Embrasure -->
+  <SadjuukEmbrasureAA.label>Log Embrasure</SadjuukEmbrasureAA.label>
+  <!-- EN: HP : 200\nFlammability : 100%\nCover : 60%\nA rustic wooden embrasure. -->
+  <SadjuukEmbrasureAA.description>HP : 200
+Flammability : 100%
+Cover : 60%
+A rustic wooden embrasure.</SadjuukEmbrasureAA.description>
+  <!-- EN: Plank Embrasure -->
+  <SadjuukEmbrasureAB.label>Plank Embrasure</SadjuukEmbrasureAB.label>
+  <!-- EN: HP : 350\nFlammability : 70%\nCover : 60%\nA wooden wall with embrasure. -->
+  <SadjuukEmbrasureAB.description>HP : 350
+Flammability : 70%
+Cover : 60%
+A wooden wall with embrasure.</SadjuukEmbrasureAB.description>
+  <!-- EN: Tin Embrasure -->
+  <SadjuukEmbrasureBA.label>Tin Embrasure</SadjuukEmbrasureBA.label>
+  <!-- EN: HP : 450\nFlammability : 20%\nCover : 70%\nA rustic wall with embrasure, made of untreated steel and wood. -->
+  <SadjuukEmbrasureBA.description>HP : 450
+Flammability : 20%
+Cover : 70%
+A rustic wall with embrasure, made of untreated steel and wood.</SadjuukEmbrasureBA.description>
+  <!-- EN: Steel Embrasure -->
+  <SadjuukEmbrasureBB.label>Steel Embrasure</SadjuukEmbrasureBB.label>
+  <!-- EN: HP : 600\nFlammability : 0%\nCover : 70%\nA very protective wall with embrasure made of thick steel plates and wood. -->
+  <SadjuukEmbrasureBB.description>HP : 600
+Flammability : 0%
+Cover : 70%
+A very protective wall with embrasure made of thick steel plates and wood.</SadjuukEmbrasureBB.description>
+  <!-- EN: Concrete Embrasure A -->
+  <SadjuukEmbrasureCA.label>Concrete Embrasure A</SadjuukEmbrasureCA.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nCover : 70%\nA thick concrete wall with embrasure. -->
+  <SadjuukEmbrasureCA.description>HP : 1000
+Flammability : 0%
+Cover : 70%
+A thick concrete wall with embrasure.</SadjuukEmbrasureCA.description>
+  <!-- EN: Concrete Embrasure B -->
+  <SadjuukEmbrasureCB.label>Concrete Embrasure B</SadjuukEmbrasureCB.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nCover : 70%\nA thick concrete wall with embrasure. -->
+  <SadjuukEmbrasureCB.description>HP : 1000
+Flammability : 0%
+Cover : 70%
+A thick concrete wall with embrasure.</SadjuukEmbrasureCB.description>
+  <!-- EN: Concrete Embrasure C -->
+  <SadjuukEmbrasureCC.label>Concrete Embrasure C</SadjuukEmbrasureCC.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nCover : 70%\nA thick concrete wall with embrasure. -->
+  <SadjuukEmbrasureCC.description>HP : 1000
+Flammability : 0%
+Cover : 70%
+A thick concrete wall with embrasure.</SadjuukEmbrasureCC.description>
+  <!-- EN: Concrete Embrasure D -->
+  <SadjuukEmbrasureCD.label>Concrete Embrasure D</SadjuukEmbrasureCD.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nCover : 70%\nA thick concrete wall with embrasure. -->
+  <SadjuukEmbrasureCD.description>HP : 1000
+Flammability : 0%
+Cover : 70%
+A thick concrete wall with embrasure.</SadjuukEmbrasureCD.description>
+  <!-- EN: Concrete Embrasure E -->
+  <SadjuukEmbrasureCE.label>Concrete Embrasure E</SadjuukEmbrasureCE.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nCover : 70%\nA thick concrete wall with embrasure. -->
+  <SadjuukEmbrasureCE.description>HP : 1000
+Flammability : 0%
+Cover : 70%
+A thick concrete wall with embrasure.</SadjuukEmbrasureCE.description>
+  <!-- EN: Steel Armored Embrasure -->
+  <SadjuukEmbrasureDA.label>Steel Armored Embrasure</SadjuukEmbrasureDA.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nCover : 75%\nA thick concrete wall Armored with heavy steel plates with embrasure. -->
+  <SadjuukEmbrasureDA.description>HP : 2000
+Flammability : 0%
+Cover : 75%
+A thick concrete wall Armored with heavy steel plates with embrasure.</SadjuukEmbrasureDA.description>
+  <!-- EN: Armored Embrasure -->
+  <SadjuukEmbrasureDB.label>Armored Embrasure</SadjuukEmbrasureDB.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nCover : 75%\nA thick concrete wall Armored with heavy steel plates with embrasure. -->
+  <SadjuukEmbrasureDB.description>HP : 2000
+Flammability : 0%
+Cover : 75%
+A thick concrete wall Armored with heavy steel plates with embrasure.</SadjuukEmbrasureDB.description>
+  <!-- EN: Forest Embrasure -->
+  <SadjuukEmbrasureDC.label>Forest Embrasure</SadjuukEmbrasureDC.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nCover : 75%\nA thick concrete wall Armored with heavy steel plates with embrasure. -->
+  <SadjuukEmbrasureDC.description>HP : 2000
+Flammability : 0%
+Cover : 75%
+A thick concrete wall Armored with heavy steel plates with embrasure.</SadjuukEmbrasureDC.description>
+  <!-- EN: Flecktarn Embrasure -->
+  <SadjuukEmbrasureDD.label>Flecktarn Embrasure</SadjuukEmbrasureDD.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nCover : 75%\nA thick concrete wall Armored with heavy steel plates with embrasure. -->
+  <SadjuukEmbrasureDD.description>HP : 2000
+Flammability : 0%
+Cover : 75%
+A thick concrete wall Armored with heavy steel plates with embrasure.</SadjuukEmbrasureDD.description>
+  <!-- EN: Desert Embrasure -->
+  <SadjuukEmbrasureDE.label>Desert Embrasure</SadjuukEmbrasureDE.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nCover : 75%\nA thick concrete wall Armored with heavy steel plates with embrasure. -->
+  <SadjuukEmbrasureDE.description>HP : 2000
+Flammability : 0%
+Cover : 75%
+A thick concrete wall Armored with heavy steel plates with embrasure.</SadjuukEmbrasureDE.description>
+  <!-- EN: Ice Embrasure -->
+  <SadjuukEmbrasureDF.label>Ice Embrasure</SadjuukEmbrasureDF.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nCover : 75%\nA thick concrete wall Armored with heavy steel plates with embrasure. -->
+  <SadjuukEmbrasureDF.description>HP : 2000
+Flammability : 0%
+Cover : 75%
+A thick concrete wall Armored with heavy steel plates with embrasure.</SadjuukEmbrasureDF.description>
+  <!-- EN: Plasteel Embrasure A -->
+  <SadjuukEmbrasureEA.label>Plasteel Embrasure A</SadjuukEmbrasureEA.label>
+  <!-- EN: HP : 4000\nFlammability : 0%\nCover : 80%\nA wall with embrasure, made from the best materials. -->
+  <SadjuukEmbrasureEA.description>HP : 4000
+Flammability : 0%
+Cover : 80%
+A wall with embrasure, made from the best materials.</SadjuukEmbrasureEA.description>
+  <!-- EN: Plasteel Embrasure B -->
+  <SadjuukEmbrasureEB.label>Plasteel Embrasure B</SadjuukEmbrasureEB.label>
+  <!-- EN: HP : 4000\nFlammability : 0%\nCover : 80%\nA wall with embrasure, made from the best materials. -->
+  <SadjuukEmbrasureEB.description>HP : 4000
+Flammability : 0%
+Cover : 80%
+A wall with embrasure, made from the best materials.</SadjuukEmbrasureEB.description>
+  <!-- EN: Plasteel Embrasure C -->
+  <SadjuukEmbrasureEC.label>Plasteel Embrasure C</SadjuukEmbrasureEC.label>
+  <!-- EN: HP : 4000\nFlammability : 0%\nCover : 80%\nA wall with embrasure, made from the best materials. -->
+  <SadjuukEmbrasureEC.description>HP : 4000
+Flammability : 0%
+Cover : 80%
+A wall with embrasure, made from the best materials.</SadjuukEmbrasureEC.description>
+  <!-- EN: Plasteel Embrasure D -->
+  <SadjuukEmbrasureED.label>Plasteel Embrasure D</SadjuukEmbrasureED.label>
+  <!-- EN: HP : 4000\nFlammability : 0%\nCover : 80%\nA wall with embrasure, made from the best materials. -->
+  <SadjuukEmbrasureED.description>HP : 4000
+Flammability : 0%
+Cover : 80%
+A wall with embrasure, made from the best materials.</SadjuukEmbrasureED.description>
+  <!-- EN: Log Wall -->
+  <SadjuukWallAA.label>Log Wall</SadjuukWallAA.label>
+  <!-- EN: HP : 200\nFlammability : 100%\nA very rustic wall made of logs, very easy to build. -->
+  <SadjuukWallAA.description>HP : 200
+Flammability : 100%
+A very rustic wall made of logs, very easy to build.</SadjuukWallAA.description>
+  <!-- EN: Plank Wall -->
+  <SadjuukWallAB.label>Plank Wall</SadjuukWallAB.label>
+  <!-- EN: HP : 350\nFlammability : 70%\nA wooden wall made of planks, resistant and durable. -->
+  <SadjuukWallAB.description>HP : 350
+Flammability : 70%
+A wooden wall made of planks, resistant and durable.</SadjuukWallAB.description>
+  <!-- EN: Tin Wall -->
+  <SadjuukWallBA.label>Tin Wall</SadjuukWallBA.label>
+  <!-- EN: HP : 450\nFlammability : 20%\nA rustic wall made of untreated steel and wood. Withstands the elements well. -->
+  <SadjuukWallBA.description>HP : 450
+Flammability : 20%
+A rustic wall made of untreated steel and wood. Withstands the elements well.</SadjuukWallBA.description>
+  <!-- EN: Steel Wall -->
+  <SadjuukWallBB.label>Steel Wall</SadjuukWallBB.label>
+  <!-- EN: HP : 600\nFlammability : 0%\nA very protective wall made of thick steel plates and wood. -->
+  <SadjuukWallBB.description>HP : 600
+Flammability : 0%
+A very protective wall made of thick steel plates and wood.</SadjuukWallBB.description>
+  <!-- EN: Concrete Wall A -->
+  <SadjuukWallCA.label>Concrete Wall A</SadjuukWallCA.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nA thick concrete wall with steel reinforcements. -->
+  <SadjuukWallCA.description>HP : 1000
+Flammability : 0%
+A thick concrete wall with steel reinforcements.</SadjuukWallCA.description>
+  <!-- EN: Concrete Wall B -->
+  <SadjuukWallCB.label>Concrete Wall B</SadjuukWallCB.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nA thick concrete wall with steel reinforcements. -->
+  <SadjuukWallCB.description>HP : 1000
+Flammability : 0%
+A thick concrete wall with steel reinforcements.</SadjuukWallCB.description>
+  <!-- EN: Concrete Wall C -->
+  <SadjuukWallCC.label>Concrete Wall C</SadjuukWallCC.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nA thick concrete wall with steel reinforcements. -->
+  <SadjuukWallCC.description>HP : 1000
+Flammability : 0%
+A thick concrete wall with steel reinforcements.</SadjuukWallCC.description>
+  <!-- EN: Concrete Wall D -->
+  <SadjuukWallCD.label>Concrete Wall D</SadjuukWallCD.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nA thick concrete wall with steel reinforcements. -->
+  <SadjuukWallCD.description>HP : 1000
+Flammability : 0%
+A thick concrete wall with steel reinforcements.</SadjuukWallCD.description>
+  <!-- EN: Concrete Wall E -->
+  <SadjuukWallCE.label>Concrete Wall E</SadjuukWallCE.label>
+  <!-- EN: HP : 1000\nFlammability : 0%\nA thick concrete wall with steel reinforcements. -->
+  <SadjuukWallCE.description>HP : 1000
+Flammability : 0%
+A thick concrete wall with steel reinforcements.</SadjuukWallCE.description>
+  <!-- EN: Steel Armored Wall -->
+  <SadjuukWallDA.label>Steel Armored Wall</SadjuukWallDA.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nA thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments. -->
+  <SadjuukWallDA.description>HP : 2000
+Flammability : 0%
+A thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments.</SadjuukWallDA.description>
+  <!-- EN: Armored Wall -->
+  <SadjuukWallDB.label>Armored Wall</SadjuukWallDB.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nA thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments. -->
+  <SadjuukWallDB.description>HP : 2000
+Flammability : 0%
+A thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments.</SadjuukWallDB.description>
+  <!-- EN: Forest Camo Wall -->
+  <SadjuukWallDC.label>Forest Camo Wall</SadjuukWallDC.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nA thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments. -->
+  <SadjuukWallDC.description>HP : 2000
+Flammability : 0%
+A thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments.</SadjuukWallDC.description>
+  <!-- EN: Flecktarn Camo Wall -->
+  <SadjuukWallDD.label>Flecktarn Camo Wall</SadjuukWallDD.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nA thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments. -->
+  <SadjuukWallDD.description>HP : 2000
+Flammability : 0%
+A thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments.</SadjuukWallDD.description>
+  <!-- EN: Desert Camo Wall -->
+  <SadjuukWallDE.label>Desert Camo Wall</SadjuukWallDE.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nA thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments. -->
+  <SadjuukWallDE.description>HP : 2000
+Flammability : 0%
+A thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments.</SadjuukWallDE.description>
+  <!-- EN: Ice Camo Wall -->
+  <SadjuukWallDF.label>Ice Camo Wall</SadjuukWallDF.label>
+  <!-- EN: HP : 2000\nFlammability : 0%\nA thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments. -->
+  <SadjuukWallDF.description>HP : 2000
+Flammability : 0%
+A thick concrete wall Armored with heavy steel plates. Intended for military use, mainly for long-term entrenchments.</SadjuukWallDF.description>
+  <!-- EN: Plasteel Wall A -->
+  <SadjuukWallEA.label>Plasteel Wall A</SadjuukWallEA.label>
+  <!-- EN: HP : 4000\nFlammability : 0%\nA wall made from the best materials. Used both in the colonization of hostile worlds and for the construction of the most advanced buildings. -->
+  <SadjuukWallEA.description>HP : 4000
+Flammability : 0%
+A wall made from the best materials. Used both in the colonization of hostile worlds and for the construction of the most advanced buildings.</SadjuukWallEA.description>
+  <!-- EN: Plasteel Wall B -->
+  <SadjuukWallEB.label>Plasteel Wall B</SadjuukWallEB.label>
+  <!-- EN: HP : 4000\nFlammability : 0%\nA wall made from the best materials. Used both in the colonization of hostile worlds and for the construction of the most advanced buildings. -->
+  <SadjuukWallEB.description>HP : 4000
+Flammability : 0%
+A wall made from the best materials. Used both in the colonization of hostile worlds and for the construction of the most advanced buildings.</SadjuukWallEB.description>
+  <!-- EN: Plasteel Wall C -->
+  <SadjuukWallEC.label>Plasteel Wall C</SadjuukWallEC.label>
+  <!-- EN: HP : 4000\nFlammability : 0%\nA wall made from the best materials. Used both in the colonization of hostile worlds and for the construction of the most advanced buildings. -->
+  <SadjuukWallEC.description>HP : 4000
+Flammability : 0%
+A wall made from the best materials. Used both in the colonization of hostile worlds and for the construction of the most advanced buildings.</SadjuukWallEC.description>
+  <!-- EN: Plasteel Wall D -->
+  <SadjuukWallED.label>Plasteel Wall D</SadjuukWallED.label>
+  <!-- EN: HP : 4000\nFlammability : 0%\nA wall made from the best materials. Used both in the colonization of hostile worlds and for the construction of the most advanced buildings. -->
+  <SadjuukWallED.description>HP : 4000
+Flammability : 0%
+A wall made from the best materials. Used both in the colonization of hostile worlds and for the construction of the most advanced buildings.</SadjuukWallED.description>
+</LanguageData>

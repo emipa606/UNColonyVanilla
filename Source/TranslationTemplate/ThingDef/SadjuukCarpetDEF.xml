@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Hay Carpet 2X1 -->
+  <SadjuukCarpetAA.label>Hay Carpet 2X1</SadjuukCarpetAA.label>
+  <!-- EN: Beauty : 2\nA very simple carpet made of braided straw. -->
+  <SadjuukCarpetAA.description>Beauty : 2
+A very simple carpet made of braided straw.</SadjuukCarpetAA.description>
+  <!-- EN: Tribal Carpet 2X1 -->
+  <SadjuukCarpetAB.label>Tribal Carpet 2X1</SadjuukCarpetAB.label>
+  <!-- EN: Beauty : 4\nA tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetAB.description>Beauty : 4
+A tribal carpet, a sign of a rich culture.</SadjuukCarpetAB.description>
+  <!-- EN: Tribal Carpet 2X1 -->
+  <SadjuukCarpetAC.label>Tribal Carpet 2X1</SadjuukCarpetAC.label>
+  <!-- EN: Beauty : 4\nA tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetAC.description>Beauty : 4
+A tribal carpet, a sign of a rich culture.</SadjuukCarpetAC.description>
+  <!-- EN: Hay Carpet 2X2 -->
+  <SadjuukCarpetAD.label>Hay Carpet 2X2</SadjuukCarpetAD.label>
+  <!-- EN: Beauty : 3\nA very simple carpet made of braided straw. -->
+  <SadjuukCarpetAD.description>Beauty : 3
+A very simple carpet made of braided straw.</SadjuukCarpetAD.description>
+  <!-- EN: Tribal Carpet 2X2 -->
+  <SadjuukCarpetAE.label>Tribal Carpet 2X2</SadjuukCarpetAE.label>
+  <!-- EN: Beauty : 6\nA tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetAE.description>Beauty : 6
+A tribal carpet, a sign of a rich culture.</SadjuukCarpetAE.description>
+  <!-- EN: Tribal Carpet 2X2 -->
+  <SadjuukCarpetAF.label>Tribal Carpet 2X2</SadjuukCarpetAF.label>
+  <!-- EN: Beauty : 6\nA tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetAF.description>Beauty : 6
+A tribal carpet, a sign of a rich culture.</SadjuukCarpetAF.description>
+  <!-- EN: Hay Carpet 3X3 -->
+  <SadjuukCarpetAG.label>Hay Carpet 3X3</SadjuukCarpetAG.label>
+  <!-- EN: Beauty : 4\nA very simple carpet made of braided straw. -->
+  <SadjuukCarpetAG.description>Beauty : 4
+A very simple carpet made of braided straw.</SadjuukCarpetAG.description>
+  <!-- EN: Tribal Carpet 3X3 -->
+  <SadjuukCarpetAH.label>Tribal Carpet 3X3</SadjuukCarpetAH.label>
+  <!-- EN: Beauty : 8\nA tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetAH.description>Beauty : 8
+A tribal carpet, a sign of a rich culture.</SadjuukCarpetAH.description>
+  <!-- EN: Tribal Carpet 3X3 -->
+  <SadjuukCarpetAI.label>Tribal Carpet 3X3</SadjuukCarpetAI.label>
+  <!-- EN: Beauty : 8\nA tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetAI.description>Beauty : 8
+A tribal carpet, a sign of a rich culture.</SadjuukCarpetAI.description>
+  <!-- EN: Ancient Carpet 2X1 -->
+  <SadjuukCarpetBB.label>Ancient Carpet 2X1</SadjuukCarpetBB.label>
+  <!-- EN: Beauty : 6\nA well-made artisanal carpet. -->
+  <SadjuukCarpetBB.description>Beauty : 6
+A well-made artisanal carpet.</SadjuukCarpetBB.description>
+  <!-- EN: Ancient Carpet 2X1 -->
+  <SadjuukCarpetBC.label>Ancient Carpet 2X1</SadjuukCarpetBC.label>
+  <!-- EN: Beauty : 6\nA well-made artisanal carpet. -->
+  <SadjuukCarpetBC.description>Beauty : 6
+A well-made artisanal carpet.</SadjuukCarpetBC.description>
+  <!-- EN: Royal Carpet 2X1 -->
+  <SadjuukCarpetBD.label>Royal Carpet 2X1</SadjuukCarpetBD.label>
+  <!-- EN: Beauty : 24\nA carpet of very good clothes, reserved for the most luxurious places. -->
+  <SadjuukCarpetBD.description>Beauty : 24
+A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetBD.description>
+  <!-- EN: Ancient Carpet 2X2 -->
+  <SadjuukCarpetBF.label>Ancient Carpet 2X2</SadjuukCarpetBF.label>
+  <!-- EN: Beauty : 9\nA well-made artisanal carpet. -->
+  <SadjuukCarpetBF.description>Beauty : 9
+A well-made artisanal carpet.</SadjuukCarpetBF.description>
+  <!-- EN: Ancient Carpet 2X2 -->
+  <SadjuukCarpetBG.label>Ancient Carpet 2X2</SadjuukCarpetBG.label>
+  <!-- EN: Beauty : 9\nA well-made artisanal carpet. -->
+  <SadjuukCarpetBG.description>Beauty : 9
+A well-made artisanal carpet.</SadjuukCarpetBG.description>
+  <!-- EN: Royal Carpet 2X2 -->
+  <SadjuukCarpetBH.label>Royal Carpet 2X2</SadjuukCarpetBH.label>
+  <!-- EN: Beauty : 36\nA carpet of very good clothes, reserved for the most luxurious places. -->
+  <SadjuukCarpetBH.description>Beauty : 36
+A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetBH.description>
+  <!-- EN: Ancient Carpet 3X3 -->
+  <SadjuukCarpetBJ.label>Ancient Carpet 3X3</SadjuukCarpetBJ.label>
+  <!-- EN: Beauty : 12\nA well-made artisanal carpet. -->
+  <SadjuukCarpetBJ.description>Beauty : 12
+A well-made artisanal carpet.</SadjuukCarpetBJ.description>
+  <!-- EN: Ancient Carpet 3X3 -->
+  <SadjuukCarpetBK.label>Ancient Carpet 3X3</SadjuukCarpetBK.label>
+  <!-- EN: Beauty : 12\nA well-made artisanal carpet. -->
+  <SadjuukCarpetBK.description>Beauty : 12
+A well-made artisanal carpet.</SadjuukCarpetBK.description>
+  <!-- EN: Royal Carpet 3X3 -->
+  <SadjuukCarpetBL.label>Royal Carpet 3X3</SadjuukCarpetBL.label>
+  <!-- EN: Beauty : 48\nA carpet of very good clothes, reserved for the most luxurious places. -->
+  <SadjuukCarpetBL.description>Beauty : 48
+A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetBL.description>
+  <!-- EN: Modern Carpet 2X1 -->
+  <SadjuukCarpetCA.label>Modern Carpet 2X1</SadjuukCarpetCA.label>
+  <!-- EN: Beauty : 6\nA modern carpet made of synthetic material. -->
+  <SadjuukCarpetCA.description>Beauty : 6
+A modern carpet made of synthetic material.</SadjuukCarpetCA.description>
+  <!-- EN: Modern Carpet 2X1 -->
+  <SadjuukCarpetCB.label>Modern Carpet 2X1</SadjuukCarpetCB.label>
+  <!-- EN: Beauty : 6\nA modern carpet made of synthetic material. -->
+  <SadjuukCarpetCB.description>Beauty : 6
+A modern carpet made of synthetic material.</SadjuukCarpetCB.description>
+  <!-- EN: Modern Carpet 2X1 -->
+  <SadjuukCarpetCC.label>Modern Carpet 2X1</SadjuukCarpetCC.label>
+  <!-- EN: Beauty : 6\nA modern carpet made of synthetic material. -->
+  <SadjuukCarpetCC.description>Beauty : 6
+A modern carpet made of synthetic material.</SadjuukCarpetCC.description>
+  <!-- EN: Modern Carpet 2X2 -->
+  <SadjuukCarpetCD.label>Modern Carpet 2X2</SadjuukCarpetCD.label>
+  <!-- EN: Beauty : 9\nA modern carpet made of synthetic material. -->
+  <SadjuukCarpetCD.description>Beauty : 9
+A modern carpet made of synthetic material.</SadjuukCarpetCD.description>
+  <!-- EN: Modern Carpet 2X2 -->
+  <SadjuukCarpetCE.label>Modern Carpet 2X2</SadjuukCarpetCE.label>
+  <!-- EN: Beauty : 9\nA modern carpet made of synthetic material. -->
+  <SadjuukCarpetCE.description>Beauty : 9
+A modern carpet made of synthetic material.</SadjuukCarpetCE.description>
+  <!-- EN: Modern Carpet 2X2 -->
+  <SadjuukCarpetCF.label>Modern Carpet 2X2</SadjuukCarpetCF.label>
+  <!-- EN: Beauty : 9\nA modern carpet made of synthetic material. -->
+  <SadjuukCarpetCF.description>Beauty : 9
+A modern carpet made of synthetic material.</SadjuukCarpetCF.description>
+  <!-- EN: Modern Carpet 3X3 -->
+  <SadjuukCarpetCG.label>Modern Carpet 3X3</SadjuukCarpetCG.label>
+  <!-- EN: Beauty : 12\nA modern carpet made of synthetic material. -->
+  <SadjuukCarpetCG.description>Beauty : 12
+A modern carpet made of synthetic material.</SadjuukCarpetCG.description>
+  <!-- EN: Modern Carpet 3X3 -->
+  <SadjuukCarpetCH.label>Modern Carpet 3X3</SadjuukCarpetCH.label>
+  <!-- EN: Beauty : 12\nA modern carpet made of synthetic material. -->
+  <SadjuukCarpetCH.description>Beauty : 12
+A modern carpet made of synthetic material.</SadjuukCarpetCH.description>
+  <!-- EN: Modern Carpet 3X3 -->
+  <SadjuukCarpetCI.label>Modern Carpet 3X3</SadjuukCarpetCI.label>
+  <!-- EN: Beauty : 12\nA modern carpet made of synthetic material. -->
+  <SadjuukCarpetCI.description>Beauty : 12
+A modern carpet made of synthetic material.</SadjuukCarpetCI.description>
+</LanguageData>

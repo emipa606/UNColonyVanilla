@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Fill a Barrel with Chemfuel -->
+  <SadjuukChemfuelRecipeA.label>Fill a Barrel with Chemfuel</SadjuukChemfuelRecipeA.label>
+  <!-- EN: Fill a Barrel with Chemfuel. -->
+  <SadjuukChemfuelRecipeA.description>Fill a Barrel with Chemfuel.</SadjuukChemfuelRecipeA.description>
+  <!-- EN: Filling a Barrel with Chemfuel. -->
+  <SadjuukChemfuelRecipeA.jobString>Filling a Barrel with Chemfuel.</SadjuukChemfuelRecipeA.jobString>
+  <!-- EN: Divide a Chemfuel Barrel -->
+  <SadjuukChemfuelRecipeB.label>Divide a Chemfuel Barrel</SadjuukChemfuelRecipeB.label>
+  <!-- EN: Divide a Barrel of Chemfuel. -->
+  <SadjuukChemfuelRecipeB.description>Divide a Barrel of Chemfuel.</SadjuukChemfuelRecipeB.description>
+  <!-- EN: Divide a Barrel of Chemfuel. -->
+  <SadjuukChemfuelRecipeB.jobString>Divide a Barrel of Chemfuel.</SadjuukChemfuelRecipeB.jobString>
+  <!-- EN: Make 35 chemfuel from hay -->
+  <SadjuukChemfuelRecipeC.label>Make 35 chemfuel from hay</SadjuukChemfuelRecipeC.label>
+  <!-- EN: Extract biofuel from hay. -->
+  <SadjuukChemfuelRecipeC.description>Extract biofuel from hay.</SadjuukChemfuelRecipeC.description>
+  <!-- EN: Refining chemfuel hay. -->
+  <SadjuukChemfuelRecipeC.jobString>Refining chemfuel hay.</SadjuukChemfuelRecipeC.jobString>
+  <!-- EN: Make 10 Chemfuel from corps -->
+  <SadjuukChemfuelRecipeD.label>Make 10 Chemfuel from corps</SadjuukChemfuelRecipeD.label>
+  <!-- EN: An inefficient extraction process from organic corps. The use of human bodies for industrial purposes constitutes a war crime and serious crimes against humanity. -->
+  <SadjuukChemfuelRecipeD.description>An inefficient extraction process from organic corps. The use of human bodies for industrial purposes constitutes a war crime and serious crimes against humanity.</SadjuukChemfuelRecipeD.description>
+  <!-- EN: Refining chemfuel from organic. -->
+  <SadjuukChemfuelRecipeD.jobString>Refining chemfuel from organic.</SadjuukChemfuelRecipeD.jobString>
+  <!-- EN: Make 35 Chemfuel from Textiles -->
+  <SadjuukChemfuelRecipeG.label>Make 35 Chemfuel from Textiles</SadjuukChemfuelRecipeG.label>
+  <!-- EN: An inefficient extraction process from organic Textiles. -->
+  <SadjuukChemfuelRecipeG.description>An inefficient extraction process from organic Textiles.</SadjuukChemfuelRecipeG.description>
+  <!-- EN: Refining chemfuel from organic. -->
+  <SadjuukChemfuelRecipeG.jobString>Refining chemfuel from organic.</SadjuukChemfuelRecipeG.jobString>
+  <!-- EN: Make 20 Concrete from Chunks -->
+  <SadjuukConcreteRecipeA.label>Make 20 Concrete from Chunks</SadjuukConcreteRecipeA.label>
+  <!-- EN: Produce Concrete Slabs. -->
+  <SadjuukConcreteRecipeA.description>Produce Concrete Slabs.</SadjuukConcreteRecipeA.description>
+  <!-- EN: Producing Concrete Slabs. -->
+  <SadjuukConcreteRecipeA.jobString>Producing Concrete Slabs.</SadjuukConcreteRecipeA.jobString>
+  <!-- EN: Make 20 Concrete from stone -->
+  <SadjuukConcreteRecipeB.label>Make 20 Concrete from stone</SadjuukConcreteRecipeB.label>
+  <!-- EN: Produce Concrete Slabs. -->
+  <SadjuukConcreteRecipeB.description>Produce Concrete Slabs.</SadjuukConcreteRecipeB.description>
+  <!-- EN: Producing Concrete Slabs. -->
+  <SadjuukConcreteRecipeB.jobString>Producing Concrete Slabs.</SadjuukConcreteRecipeB.jobString>
+  <!-- EN: Make 5 Glass from Chunks -->
+  <SadjuukGlassRecipeA.label>Make 5 Glass from Chunks</SadjuukGlassRecipeA.label>
+  <!-- EN: Produce Glass Slabs. -->
+  <SadjuukGlassRecipeA.description>Produce Glass Slabs.</SadjuukGlassRecipeA.description>
+  <!-- EN: Producing Glass Slabs. -->
+  <SadjuukGlassRecipeA.jobString>Producing Glass Slabs.</SadjuukGlassRecipeA.jobString>
+  <!-- EN: Make 5 Glass from Stone -->
+  <SadjuukGlassRecipeB.label>Make 5 Glass from Stone</SadjuukGlassRecipeB.label>
+  <!-- EN: Produce Glass Slabs. -->
+  <SadjuukGlassRecipeB.description>Produce Glass Slabs.</SadjuukGlassRecipeB.description>
+  <!-- EN: Producing Glass Slabs. -->
+  <SadjuukGlassRecipeB.jobString>Producing Glass Slabs.</SadjuukGlassRecipeB.jobString>
+  <!-- EN: Make 3 Hydrogen from Chemfuel -->
+  <SadjuukHydrogenRecipeA.label>Make 3 Hydrogen from Chemfuel</SadjuukHydrogenRecipeA.label>
+  <!-- EN: Extract Hydrogen from Barrel. -->
+  <SadjuukHydrogenRecipeA.description>Extract Hydrogen from Barrel.</SadjuukHydrogenRecipeA.description>
+  <!-- EN: Produce Hydrogen. -->
+  <SadjuukHydrogenRecipeA.jobString>Produce Hydrogen.</SadjuukHydrogenRecipeA.jobString>
+  <!-- EN: Make 1 Hydrogen from Chemfuel -->
+  <SadjuukHydrogenRecipeB.label>Make 1 Hydrogen from Chemfuel</SadjuukHydrogenRecipeB.label>
+  <!-- EN: Extract Hydrogen from Chemfuel. -->
+  <SadjuukHydrogenRecipeB.description>Extract Hydrogen from Chemfuel.</SadjuukHydrogenRecipeB.description>
+  <!-- EN: Produce Hydrogen. -->
+  <SadjuukHydrogenRecipeB.jobString>Produce Hydrogen.</SadjuukHydrogenRecipeB.jobString>
+  <!-- EN: Produce Synthread from Chemfuel -->
+  <SadjuukSynthreadRecipeA.label>Produce Synthread from Chemfuel</SadjuukSynthreadRecipeA.label>
+  <!-- EN: Produce Synthread. -->
+  <SadjuukSynthreadRecipeA.description>Produce Synthread.</SadjuukSynthreadRecipeA.description>
+  <!-- EN: Producing Synthread. -->
+  <SadjuukSynthreadRecipeA.jobString>Producing Synthread.</SadjuukSynthreadRecipeA.jobString>
+</LanguageData>

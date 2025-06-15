@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Medium Refinery -->
+  <SadjuukRefineryA.label>Medium Refinery</SadjuukRefineryA.label>
+  <!-- EN: HP : 300\nPower : 450W\nA medium capacity Refinery, far from conventional industrial capabilities but reliable and versatile.\nIt's 30% more efficient to produce directly a whole barrel than small quantity of chemfuel. -->
+  <SadjuukRefineryA.description>HP : 300
+Power : 450W
+A medium capacity Refinery, far from conventional industrial capabilities but reliable and versatile.
+It's 30% more efficient to produce directly a whole barrel than small quantity of chemfuel.</SadjuukRefineryA.description>
+  <!-- EN: Chemfuel Tank -->
+  <SadjuukRefineryUpgradeA.label>Chemfuel Tank</SadjuukRefineryUpgradeA.label>
+  <!-- EN: HP : 150\nPower : 50W\nSpeed : +5%\nRefinery Upgrade : 10 of these small tanks can be added to improve the speed of refining, making quickly available the heaviest organic elements. -->
+  <SadjuukRefineryUpgradeA.description>HP : 150
+Power : 50W
+Speed : +5%
+Refinery Upgrade : 10 of these small tanks can be added to improve the speed of refining, making quickly available the heaviest organic elements.</SadjuukRefineryUpgradeA.description>
+  <!-- EN: Cracking Unit -->
+  <SadjuukRefineryUpgradeB.label>Cracking Unit</SadjuukRefineryUpgradeB.label>
+  <!-- EN: HP : 300\nPower : 450W\nSpeed : +30%\nRefinery Upgrade : Works in parallel with the refinery units to process the heaviest elements. -->
+  <SadjuukRefineryUpgradeB.description>HP : 300
+Power : 450W
+Speed : +30%
+Refinery Upgrade : Works in parallel with the refinery units to process the heaviest elements.</SadjuukRefineryUpgradeB.description>
+  <!-- EN: Hydrolyzer -->
+  <SadjuukRefineryUpgradeC.label>Hydrolyzer</SadjuukRefineryUpgradeC.label>
+  <!-- EN: HP : 300\nPower : 450W\nSpeed : +60%\nRefinery Upgrade : The hydrolyzer significantly increases the transformation of organic matter. -->
+  <SadjuukRefineryUpgradeC.description>HP : 300
+Power : 450W
+Speed : +60%
+Refinery Upgrade : The hydrolyzer significantly increases the transformation of organic matter.</SadjuukRefineryUpgradeC.description>
+</LanguageData>

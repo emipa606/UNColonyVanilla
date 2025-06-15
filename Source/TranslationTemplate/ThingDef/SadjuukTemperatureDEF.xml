@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Electric Heater -->
+  <SadjuukTemperatureAA.label>Electric Heater</SadjuukTemperatureAA.label>
+  <!-- EN: Power : 175W\nT/s : 21\nElectric Heater, has a low energy efficiency. -->
+  <SadjuukTemperatureAA.description>Power : 175W
+T/s : 21
+Electric Heater, has a low energy efficiency.</SadjuukTemperatureAA.description>
+  <!-- EN: Ceramic Heater -->
+  <SadjuukTemperatureAB.label>Ceramic Heater</SadjuukTemperatureAB.label>
+  <!-- EN: Power : 100W\nT/s : +30\nA Ceramic Heater, has a good energy efficiency. -->
+  <SadjuukTemperatureAB.description>Power : 100W
+T/s : +30
+A Ceramic Heater, has a good energy efficiency.</SadjuukTemperatureAB.description>
+  <!-- EN: Steel Air Cooler -->
+  <SadjuukTemperatureBA.label>Steel Air Cooler</SadjuukTemperatureBA.label>
+  <!-- EN: Power : 200W\nT/s : -21\nAn electric Air Cooler. Have to be placed on a wall. -->
+  <SadjuukTemperatureBA.description>Power : 200W
+T/s : -21
+An electric Air Cooler. Have to be placed on a wall.</SadjuukTemperatureBA.description>
+  <!-- EN: Ceramic Air Cooler -->
+  <SadjuukTemperatureBB.label>Ceramic Air Cooler</SadjuukTemperatureBB.label>
+  <!-- EN: Power : 400W\nBeauty : 2\nT/s : -63\nA ceramic Air Cooler with good performance. Have to be placed on a wall. -->
+  <SadjuukTemperatureBB.description>Power : 400W
+Beauty : 2
+T/s : -63
+A ceramic Air Cooler with good performance. Have to be placed on a wall.</SadjuukTemperatureBB.description>
+  <!-- EN: Electric Fan -->
+  <SadjuukTemperatureCA.label>Electric Fan</SadjuukTemperatureCA.label>
+  <!-- EN: Power : 40W\nT/s : -8\nT min : 24°C\nA cheap Electric Fan, reducing a little excess temperature in a room. -->
+  <SadjuukTemperatureCA.description>Power : 40W
+T/s : -8
+T min : 24°C
+A cheap Electric Fan, reducing a little excess temperature in a room.</SadjuukTemperatureCA.description>
+  <!-- EN: Steel Ventilation -->
+  <SadjuukTemperatureDA.label>Steel Ventilation</SadjuukTemperatureDA.label>
+  <!-- EN: A very simple ventilation, giving breathable air and transmitting heat between rooms. Have to be placed on a wall. -->
+  <SadjuukTemperatureDA.description>A very simple ventilation, giving breathable air and transmitting heat between rooms. Have to be placed on a wall.</SadjuukTemperatureDA.description>
+  <!-- EN: Cozy Ventilation -->
+  <SadjuukVentAC.label>Cozy Ventilation</SadjuukVentAC.label>
+  <!-- EN: Beauty : 2\nA filter ventilation of very good quality. Greatly increasing the comfort of the room. Have to be placed on a wall. -->
+  <SadjuukVentAC.description>Beauty : 2
+A filter ventilation of very good quality. Greatly increasing the comfort of the room. Have to be placed on a wall.</SadjuukVentAC.description>
+</LanguageData>

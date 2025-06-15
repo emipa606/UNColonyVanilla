@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Wood Generator 1.5kW -->
+  <SadjuukGeneratorAA.label>Wood Generator 1.5kW</SadjuukGeneratorAA.label>
+  <!-- EN: HP : 450\nPower : 1500W\nA very rustic generator, using water steam as source of power. -->
+  <SadjuukGeneratorAA.description>HP : 450
+Power : 1500W
+A very rustic generator, using water steam as source of power.</SadjuukGeneratorAA.description>
+  <!-- EN: Chemfuel Generator 3kW -->
+  <SadjuukGeneratorBA.label>Chemfuel Generator 3kW</SadjuukGeneratorBA.label>
+  <!-- EN: HP : 450\nPower : 3000W\nEfficiency : 103%\nA rustic and simple Chemfuel generator using a reliable combustion engine coupled with an alternator to generate electricity. -->
+  <SadjuukGeneratorBA.description>HP : 450
+Power : 3000W
+Efficiency : 103%
+A rustic and simple Chemfuel generator using a reliable combustion engine coupled with an alternator to generate electricity.</SadjuukGeneratorBA.description>
+  <!-- EN: Chemfuel Generator 18KW -->
+  <SadjuukGeneratorBB.label>Chemfuel Generator 18KW</SadjuukGeneratorBB.label>
+  <!-- EN: HP : 450\nPower : 18000W\nEfficiency : 118%\nA very large Chemfuel generator. This rustic version of the standard UN-FGEN18K is mainly used for its low cost and large capacity tank. -->
+  <SadjuukGeneratorBB.description>HP : 450
+Power : 18000W
+Efficiency : 118%
+A very large Chemfuel generator. This rustic version of the standard UN-FGEN18K is mainly used for its low cost and large capacity tank.</SadjuukGeneratorBB.description>
+  <!-- EN: UN-FGEN18K 18KW -->
+  <SadjuukGeneratorBC.label>UN-FGEN18K 18KW</SadjuukGeneratorBC.label>
+  <!-- EN: HP : 2400\nPower : 18000W\nEfficiency : 118%\nThe standard industrial Chemfuel generator UN-FGEN18K. Double injection system, double filtration system, high production rate and capacity. -->
+  <SadjuukGeneratorBC.description>HP : 2400
+Power : 18000W
+Efficiency : 118%
+The standard industrial Chemfuel generator UN-FGEN18K. Double injection system, double filtration system, high production rate and capacity.</SadjuukGeneratorBC.description>
+  <!-- EN: Industrial Generator 3KW -->
+  <SadjuukGeneratorCA.label>Industrial Generator 3KW</SadjuukGeneratorCA.label>
+  <!-- EN: HP : 900\nPower : 3000W\nEfficiency : 103%\nAn industrial armored Chemfuel generator, designed to withstand extreme conditions. -->
+  <SadjuukGeneratorCA.description>HP : 900
+Power : 3000W
+Efficiency : 103%
+An industrial armored Chemfuel generator, designed to withstand extreme conditions.</SadjuukGeneratorCA.description>
+  <!-- EN: Industrial Generator 6KW -->
+  <SadjuukGeneratorCB.label>Industrial Generator 6KW</SadjuukGeneratorCB.label>
+  <!-- EN: HP : 1800\nPower : 6000W\nEfficiency : 106%\nAn industrial Armored Chemfuel generator, very reliable with its reinforced structure. -->
+  <SadjuukGeneratorCB.description>HP : 1800
+Power : 6000W
+Efficiency : 106%
+An industrial Armored Chemfuel generator, very reliable with its reinforced structure.</SadjuukGeneratorCB.description>
+  <!-- EN: Armored FGEN03K 3kW -->
+  <SadjuukGeneratorMA.label>Armored FGEN03K 3kW</SadjuukGeneratorMA.label>
+  <!-- EN: HP : 3000\nPower : 3000W\nEfficiency : 103%\nAn armored Generator from UNSC standard. Foolproof design, high production rate, intended for military use, mainly for long-term entrenchments. -->
+  <SadjuukGeneratorMA.description>HP : 3000
+Power : 3000W
+Efficiency : 103%
+An armored Generator from UNSC standard. Foolproof design, high production rate, intended for military use, mainly for long-term entrenchments.</SadjuukGeneratorMA.description>
+  <!-- EN: Armored FGEN06K 6kW -->
+  <SadjuukGeneratorMB.label>Armored FGEN06K 6kW</SadjuukGeneratorMB.label>
+  <!-- EN: HP : 6000\nPower : 6000W\nEfficiency : 106%\nAn armored Generator from UNSC standard. All elements are fully shielded. -->
+  <SadjuukGeneratorMB.description>HP : 6000
+Power : 6000W
+Efficiency : 106%
+An armored Generator from UNSC standard. All elements are fully shielded.</SadjuukGeneratorMB.description>
+  <!-- EN: Portable Generator 0.5kW -->
+  <SadjuukGeneratorPA.label>Portable Generator 0.5kW</SadjuukGeneratorPA.label>
+  <!-- EN: HP : 150\nPower : 500W\nMass : 50kg\nA Chemfuel portable generator. Low capacity tank and low power but sufficient for most nomadic situations. -->
+  <SadjuukGeneratorPA.description>HP : 150
+Power : 500W
+Mass : 50kg
+A Chemfuel portable generator. Low capacity tank and low power but sufficient for most nomadic situations.</SadjuukGeneratorPA.description>
+  <!-- EN: Portable CGEN01K 1kW -->
+  <SadjuukGeneratorPB.label>Portable CGEN01K 1kW</SadjuukGeneratorPB.label>
+  <!-- EN: HP : 1500\nPower : 1000W\nMass : 100kg\nA military Chemfuel generator from UNSC standard. Mainly used in defence positions and outpost structures. -->
+  <SadjuukGeneratorPB.description>HP : 1500
+Power : 1000W
+Mass : 100kg
+A military Chemfuel generator from UNSC standard. Mainly used in defence positions and outpost structures.</SadjuukGeneratorPB.description>
+  <!-- EN: Portable Fuel Cell 3kW -->
+  <SadjuukGeneratorPC.label>Portable Fuel Cell 3kW</SadjuukGeneratorPC.label>
+  <!-- EN: HP : 450\nPower : 3000W\nEfficiency : 175%\nMass : 30kg\nAn advanced portable Fuel Cell. Gives the fuel a very long service life. High Pressure Hydrogen divides by 4 the need for organic materials. -->
+  <SadjuukGeneratorPC.description>HP : 450
+Power : 3000W
+Efficiency : 175%
+Mass : 30kg
+An advanced portable Fuel Cell. Gives the fuel a very long service life. High Pressure Hydrogen divides by 4 the need for organic materials.</SadjuukGeneratorPC.description>
+  <!-- EN: Large Fuel Cell 12kW -->
+  <SadjuukGeneratorYA.label>Large Fuel Cell 12kW</SadjuukGeneratorYA.label>
+  <!-- EN: HP : 1800\nPower : 12000W\nEfficiency : 175%\nAn advanced Fuel Cell that converts the chemical energy of hydrogen into electricity.  High Pressure Hydrogen divides by 4 the need for organic materials. -->
+  <SadjuukGeneratorYA.description>HP : 1800
+Power : 12000W
+Efficiency : 175%
+An advanced Fuel Cell that converts the chemical energy of hydrogen into electricity.  High Pressure Hydrogen divides by 4 the need for organic materials.</SadjuukGeneratorYA.description>
+  <!-- EN: Power Conduit -->
+  <SadjuukPowerConduitA.label>Power Conduit</SadjuukPowerConduitA.label>
+  <!-- EN: Standard bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <SadjuukPowerConduitA.description>Standard bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</SadjuukPowerConduitA.description>
+</LanguageData>

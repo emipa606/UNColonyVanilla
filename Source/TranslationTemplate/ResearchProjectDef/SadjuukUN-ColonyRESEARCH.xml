@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: UN Colonization Programm -->
+  <SadjuukColonization.label>UN Colonization Programm</SadjuukColonization.label>
+  <!-- EN: Opening of the United Nations Colonization Program's recommendations and technologies. -->
+  <SadjuukColonization.description>Opening of the United Nations Colonization Program's recommendations and technologies.</SadjuukColonization.description>
+  <!-- EN: Construction A -->
+  <SadjuukConstructionA.label>Construction A</SadjuukConstructionA.label>
+  <!-- EN: This essential research allows the construction of Concrete Buildings, Glass and essential structures. -->
+  <SadjuukConstructionA.description>This essential research allows the construction of Concrete Buildings, Glass and essential structures.</SadjuukConstructionA.description>
+  <!-- EN: Construction B -->
+  <SadjuukConstructionB.label>Construction B</SadjuukConstructionB.label>
+  <!-- EN: This military research allows the production of Armored Walls and Doors, essential to build bunkers and camouflaged defense positions. -->
+  <SadjuukConstructionB.description>This military research allows the production of Armored Walls and Doors, essential to build bunkers and camouflaged defense positions.</SadjuukConstructionB.description>
+  <!-- EN: Construction C -->
+  <SadjuukConstructionC.label>Construction C</SadjuukConstructionC.label>
+  <!-- EN: This research allows the construction of advanced Walls and Doors using the strongest materials. -->
+  <SadjuukConstructionC.description>This research allows the construction of advanced Walls and Doors using the strongest materials.</SadjuukConstructionC.description>
+  <!-- EN: Furniture A -->
+  <SadjuukFurnitureA.label>Furniture A</SadjuukFurnitureA.label>
+  <!-- EN: This essential research allows the construction of essential furniture, lights, research and medical equipments. -->
+  <SadjuukFurnitureA.description>This essential research allows the construction of essential furniture, lights, research and medical equipments.</SadjuukFurnitureA.description>
+  <!-- EN: Furniture B -->
+  <SadjuukFurnitureB.label>Furniture B</SadjuukFurnitureB.label>
+  <!-- EN: This research allows the construction of advanced furniture, medical, research and surgery equipments. -->
+  <SadjuukFurnitureB.description>This research allows the construction of advanced furniture, medical, research and surgery equipments.</SadjuukFurnitureB.description>
+  <!-- EN: Furniture C -->
+  <SadjuukFurnitureC.label>Furniture C</SadjuukFurnitureC.label>
+  <!-- EN: This research allows the construction of advanced furniture and equipments. -->
+  <SadjuukFurnitureC.description>This research allows the construction of advanced furniture and equipments.</SadjuukFurnitureC.description>
+  <!-- EN: Power A -->
+  <SadjuukPowerA.label>Power A</SadjuukPowerA.label>
+  <!-- EN: This essential research allows the construction of Chemfuel Generators and refinery. -->
+  <SadjuukPowerA.description>This essential research allows the construction of Chemfuel Generators and refinery.</SadjuukPowerA.description>
+  <!-- EN: Power B -->
+  <SadjuukPowerB.label>Power B</SadjuukPowerB.label>
+  <!-- EN: This research allows the production of advanced and armored Chemfuel Generators. -->
+  <SadjuukPowerB.description>This research allows the production of advanced and armored Chemfuel Generators.</SadjuukPowerB.description>
+  <!-- EN: Power C -->
+  <SadjuukPowerC.label>Power C</SadjuukPowerC.label>
+  <!-- EN: This advanced research allows the production of High Pressure Hydrogen and Hydrogen Fuel Cells. -->
+  <SadjuukPowerC.description>This advanced research allows the production of High Pressure Hydrogen and Hydrogen Fuel Cells.</SadjuukPowerC.description>
+</LanguageData>

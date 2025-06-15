@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Walnut Floor -->
+  <SadjuukFloorAA.label>Walnut Floor</SadjuukFloorAA.label>
+  <!-- EN: Flammability : 22%\nBeauty : 1\nA simple Walnut floor, made of wooden logs and planks. Looks nice and comfortable. -->
+  <SadjuukFloorAA.description>Flammability : 22%
+Beauty : 1
+A simple Walnut floor, made of wooden logs and planks. Looks nice and comfortable.</SadjuukFloorAA.description>
+  <!-- EN: Poplar Floor -->
+  <SadjuukFloorAB.label>Poplar Floor</SadjuukFloorAB.label>
+  <!-- EN: Flammability : 22%\nBeauty : 1\nA simple Poplar floor, made of wooden logs and planks. Looks nice and comfortable. -->
+  <SadjuukFloorAB.description>Flammability : 22%
+Beauty : 1
+A simple Poplar floor, made of wooden logs and planks. Looks nice and comfortable.</SadjuukFloorAB.description>
+  <!-- EN: Oak Parquet -->
+  <SadjuukFloorAC.label>Oak Parquet</SadjuukFloorAC.label>
+  <!-- EN: Flammability : 22%\nBeauty : 2\nA quality Oak parquet giving the interiors a certain cachet. -->
+  <SadjuukFloorAC.description>Flammability : 22%
+Beauty : 2
+A quality Oak parquet giving the interiors a certain cachet.</SadjuukFloorAC.description>
+  <!-- EN: Alder Parquet -->
+  <SadjuukFloorAD.label>Alder Parquet</SadjuukFloorAD.label>
+  <!-- EN: Flammability : 22%\nBeauty : 2\nA quality Oak parquet giving the interiors a certain cachet. -->
+  <SadjuukFloorAD.description>Flammability : 22%
+Beauty : 2
+A quality Oak parquet giving the interiors a certain cachet.</SadjuukFloorAD.description>
+  <!-- EN: Steel Grid -->
+  <SadjuukFloorBA.label>Steel Grid</SadjuukFloorBA.label>
+  <!-- EN: A raw Metal Floor, inexpensive, quick to build but horrible. -->
+  <SadjuukFloorBA.description>A raw Metal Floor, inexpensive, quick to build but horrible.</SadjuukFloorBA.description>
+  <!-- EN: Steel Plate -->
+  <SadjuukFloorBB.label>Steel Plate</SadjuukFloorBB.label>
+  <!-- EN: A raw Metal Floor, inexpensive, quick to build but horrible. -->
+  <SadjuukFloorBB.description>A raw Metal Floor, inexpensive, quick to build but horrible.</SadjuukFloorBB.description>
+  <!-- EN: Concrete -->
+  <SadjuukFloorCA.label>Concrete</SadjuukFloorCA.label>
+  <!-- EN: A thick concrete Floor, perfect for covering large areas. -->
+  <SadjuukFloorCA.description>A thick concrete Floor, perfect for covering large areas.</SadjuukFloorCA.description>
+  <!-- EN: Resin Concrete White -->
+  <SadjuukFloorDA.label>Resin Concrete White</SadjuukFloorDA.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDA.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDA.description>
+  <!-- EN: Resin Concrete Grey -->
+  <SadjuukFloorDB.label>Resin Concrete Grey</SadjuukFloorDB.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDB.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDB.description>
+  <!-- EN: Resin Concrete Dark -->
+  <SadjuukFloorDC.label>Resin Concrete Dark</SadjuukFloorDC.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDC.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDC.description>
+  <!-- EN: Resin Concrete Red -->
+  <SadjuukFloorDD.label>Resin Concrete Red</SadjuukFloorDD.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDD.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDD.description>
+  <!-- EN: Resin Concrete Green -->
+  <SadjuukFloorDE.label>Resin Concrete Green</SadjuukFloorDE.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDE.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDE.description>
+  <!-- EN: Resin Concrete Blue -->
+  <SadjuukFloorDF.label>Resin Concrete Blue</SadjuukFloorDF.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDF.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDF.description>
+  <!-- EN: Resin Concrete Yellow -->
+  <SadjuukFloorDG.label>Resin Concrete Yellow</SadjuukFloorDG.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDG.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDG.description>
+  <!-- EN: Resin Concrete Purple -->
+  <SadjuukFloorDH.label>Resin Concrete Purple</SadjuukFloorDH.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDH.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDH.description>
+  <!-- EN: Resin Concrete Green-Grey -->
+  <SadjuukFloorDI.label>Resin Concrete Green-Grey</SadjuukFloorDI.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDI.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDI.description>
+  <!-- EN: Resin Concrete Black -->
+  <SadjuukFloorDJ.label>Resin Concrete Black</SadjuukFloorDJ.label>
+  <!-- EN: Beauty : 1\nCleanliness : 0.3\nA Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry. -->
+  <SadjuukFloorDJ.description>Beauty : 1
+Cleanliness : 0.3
+A Very strong floor conception with concrete foundation and thick layer of paint and resin. Very consumer of organic matter. Used indoor for warehouse, hospital or industry.</SadjuukFloorDJ.description>
+  <!-- EN: Asphalt -->
+  <SadjuukFloorEA.label>Asphalt</SadjuukFloorEA.label>
+  <!-- EN: Asphalt Floor, very used for roads and outdoor storage area. -->
+  <SadjuukFloorEA.description>Asphalt Floor, very used for roads and outdoor storage area.</SadjuukFloorEA.description>
+</LanguageData>

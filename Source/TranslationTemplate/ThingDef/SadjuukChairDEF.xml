@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Log Chair -->
+  <SadjuukChairAA.label>Log Chair</SadjuukChairAA.label>
+  <!-- EN: Beauty : 0\nComfort : 50%\nSimple and primitive furniture, an essential element for creating a living space or workstation. -->
+  <SadjuukChairAA.description>Beauty : 0
+Comfort : 50%
+Simple and primitive furniture, an essential element for creating a living space or workstation.</SadjuukChairAA.description>
+  <!-- EN: Log Stool -->
+  <SadjuukChairAB.label>Log Stool</SadjuukChairAB.label>
+  <!-- EN: Beauty : 0\nComfort : 50%\nSimple and primitive furniture, an essential element for creating a living space or workstation. -->
+  <SadjuukChairAB.description>Beauty : 0
+Comfort : 50%
+Simple and primitive furniture, an essential element for creating a living space or workstation.</SadjuukChairAB.description>
+  <!-- EN: Wooden Chair -->
+  <SadjuukChairBA.label>Wooden Chair</SadjuukChairBA.label>
+  <!-- EN: Beauty : 2\nComfort : 70%\nSimple wooden furniture, an essential element for creating a living space or workstation. -->
+  <SadjuukChairBA.description>Beauty : 2
+Comfort : 70%
+Simple wooden furniture, an essential element for creating a living space or workstation.</SadjuukChairBA.description>
+  <!-- EN: Wooden Stool -->
+  <SadjuukChairBB.label>Wooden Stool</SadjuukChairBB.label>
+  <!-- EN: Beauty : 2\nComfort : 70%\nSimple wooden furniture, an essential element for creating a living space or workstation. -->
+  <SadjuukChairBB.description>Beauty : 2
+Comfort : 70%
+Simple wooden furniture, an essential element for creating a living space or workstation.</SadjuukChairBB.description>
+  <!-- EN: Steel Chair -->
+  <SadjuukChairCA.label>Steel Chair</SadjuukChairCA.label>
+  <!-- EN: Beauty : 2\nComfort : 70%\nStandard steel furniture, an essential element for creating a living space or workstation. -->
+  <SadjuukChairCA.description>Beauty : 2
+Comfort : 70%
+Standard steel furniture, an essential element for creating a living space or workstation.</SadjuukChairCA.description>
+  <!-- EN: Steel Stool -->
+  <SadjuukChairCB.label>Steel Stool</SadjuukChairCB.label>
+  <!-- EN: Beauty : 2\nComfort : 70%\nStandard steel furniture, an essential element for creating a living space or workstation. -->
+  <SadjuukChairCB.description>Beauty : 2
+Comfort : 70%
+Standard steel furniture, an essential element for creating a living space or workstation.</SadjuukChairCB.description>
+  <!-- EN: Plasteel Chair A -->
+  <SadjuukChairEA.label>Plasteel Chair A</SadjuukChairEA.label>
+  <!-- EN: Beauty : 6\nComfort : 80%\nPlasteel furniture, an essential element for creating a living space or workstation. -->
+  <SadjuukChairEA.description>Beauty : 6
+Comfort : 80%
+Plasteel furniture, an essential element for creating a living space or workstation.</SadjuukChairEA.description>
+  <!-- EN: Plasteel Chair B -->
+  <SadjuukChairEB.label>Plasteel Chair B</SadjuukChairEB.label>
+  <!-- EN: Beauty : 6\nComfort : 80%\nPlasteel furniture, an essential element for creating a living space or workstation. -->
+  <SadjuukChairEB.description>Beauty : 6
+Comfort : 80%
+Plasteel furniture, an essential element for creating a living space or workstation.</SadjuukChairEB.description>
+</LanguageData>

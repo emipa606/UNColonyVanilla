@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Chemfuel Barrel -->
+  <SadjuukChemfuelBarrel.label>Chemfuel Barrel</SadjuukChemfuelBarrel.label>
+  <!-- EN: A barrel of Chemfuel, can be stored outside. Contains 450 units of Chemfuel.\nHighly explosive. -->
+  <SadjuukChemfuelBarrel.description>A barrel of Chemfuel, can be stored outside. Contains 450 units of Chemfuel.
+Highly explosive.</SadjuukChemfuelBarrel.description>
+  <!-- EN: Concrete -->
+  <SadjuukConcrete.label>Concrete</SadjuukConcrete.label>
+  <!-- EN: A composite material made of fine and coarse aggregate bonded together. Concrete makes a building fire-safe due to its noncombustible nature. -->
+  <SadjuukConcrete.description>A composite material made of fine and coarse aggregate bonded together. Concrete makes a building fire-safe due to its noncombustible nature.</SadjuukConcrete.description>
+  <!-- EN: Bulletproof Glass -->
+  <SadjuukGlass.label>Bulletproof Glass</SadjuukGlass.label>
+  <!-- EN: Thin wafers of silicon interwoven. -->
+  <SadjuukGlass.description>Thin wafers of silicon interwoven.</SadjuukGlass.description>
+  <!-- EN: High Pressure Hydrogen -->
+  <SadjuukHydrogen.label>High Pressure Hydrogen</SadjuukHydrogen.label>
+  <!-- EN: A shielded container of High Pressure Hydrogen. Used to produce energy in fuel cell or as propellant for advanced military ammunition. -->
+  <SadjuukHydrogen.description>A shielded container of High Pressure Hydrogen. Used to produce energy in fuel cell or as propellant for advanced military ammunition.</SadjuukHydrogen.description>
+</LanguageData>

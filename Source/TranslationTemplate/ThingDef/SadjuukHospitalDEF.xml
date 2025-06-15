@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Recovery Bed -->
+  <SadjuukHospitalBB.label>Recovery Bed</SadjuukHospitalBB.label>
+  <!-- EN: Beauty : 4\nComfort : 85%\nImmunity : +10%\nSurgery : +0%\nTending : +10%\nA good medical bed, very confortable for peaceful recovery and long bed rest. -->
+  <SadjuukHospitalBB.description>Beauty : 4
+Comfort : 85%
+Immunity : +10%
+Surgery : +0%
+Tending : +10%
+A good medical bed, very confortable for peaceful recovery and long bed rest.</SadjuukHospitalBB.description>
+  <!-- EN: Steel Medical Bed -->
+  <SadjuukHospitalCA.label>Steel Medical Bed</SadjuukHospitalCA.label>
+  <!-- EN: Beauty : 2\nComfort : 75%\nImmunity : +10%\nSurgery : +10%\nTending : +10%\nA Standard hospital bed, good for recovery medical care. -->
+  <SadjuukHospitalCA.description>Beauty : 2
+Comfort : 75%
+Immunity : +10%
+Surgery : +10%
+Tending : +10%
+A Standard hospital bed, good for recovery medical care.</SadjuukHospitalCA.description>
+  <!-- EN: Operating Table -->
+  <SadjuukHospitalCC.label>Operating Table</SadjuukHospitalCC.label>
+  <!-- EN: Beauty : 2\nComfort : 70%\nImmunity : +20%\nSurgery : +20%\nTending : +20%\nA Surgery bed made for serious emergency interventions or complex operations. -->
+  <SadjuukHospitalCC.description>Beauty : 2
+Comfort : 70%
+Immunity : +20%
+Surgery : +20%
+Tending : +20%
+A Surgery bed made for serious emergency interventions or complex operations.</SadjuukHospitalCC.description>
+  <!-- EN: Emergency Stretcher -->
+  <SadjuukHospitalCD.label>Emergency Stretcher</SadjuukHospitalCD.label>
+  <!-- EN: Beauty : 2\nComfort : 70%\nImmunity : +0%\nSurgery : +0%\nTending : +20%\nA very light emergency stretcher of only 3kg, to take with you for long operations or emergency response in the field. -->
+  <SadjuukHospitalCD.description>Beauty : 2
+Comfort : 70%
+Immunity : +0%
+Surgery : +0%
+Tending : +20%
+A very light emergency stretcher of only 3kg, to take with you for long operations or emergency response in the field.</SadjuukHospitalCD.description>
+  <!-- EN: Wooden Pharmacy -->
+  <SadjuukHospitalUpgradeBA.label>Wooden Pharmacy</SadjuukHospitalUpgradeBA.label>
+  <!-- EN: Beauty : 4\nImmunity : +2.5%\nSurgery : +0%\nTending : +2.5%\nHospital Upgrade : A Wooden Pharmacy containing many essential things. -->
+  <SadjuukHospitalUpgradeBA.description>Beauty : 4
+Immunity : +2.5%
+Surgery : +0%
+Tending : +2.5%
+Hospital Upgrade : A Wooden Pharmacy containing many essential things.</SadjuukHospitalUpgradeBA.description>
+  <!-- EN: Tending Tools -->
+  <SadjuukHospitalUpgradeBB.label>Tending Tools</SadjuukHospitalUpgradeBB.label>
+  <!-- EN: Beauty : 4\nImmunity : +0%\nSurgery : +0%\nTending : +5%\nHospital Upgrade : Tending tools increasing general medical tend quality. Essential in an infirmary. -->
+  <SadjuukHospitalUpgradeBB.description>Beauty : 4
+Immunity : +0%
+Surgery : +0%
+Tending : +5%
+Hospital Upgrade : Tending tools increasing general medical tend quality. Essential in an infirmary.</SadjuukHospitalUpgradeBB.description>
+  <!-- EN: Modern Pharmacy -->
+  <SadjuukHospitalUpgradeCA.label>Modern Pharmacy</SadjuukHospitalUpgradeCA.label>
+  <!-- EN: Beauty : 2\nImmunity : +5%\nSurgery : +0%\nTending : +2.5%\nHospital Upgrade : A very complete Pharmacy containing essential drugs and equipment for years. -->
+  <SadjuukHospitalUpgradeCA.description>Beauty : 2
+Immunity : +5%
+Surgery : +0%
+Tending : +2.5%
+Hospital Upgrade : A very complete Pharmacy containing essential drugs and equipment for years.</SadjuukHospitalUpgradeCA.description>
+  <!-- EN: Steel Surgery Tools -->
+  <SadjuukHospitalUpgradeCB.label>Steel Surgery Tools</SadjuukHospitalUpgradeCB.label>
+  <!-- EN: Beauty : 2\nImmunity : +2.5%\nSurgery : +5%\nTending : +0%\nHospital Upgrade : Standard medical tools for surgery. -->
+  <SadjuukHospitalUpgradeCB.description>Beauty : 2
+Immunity : +2.5%
+Surgery : +5%
+Tending : +0%
+Hospital Upgrade : Standard medical tools for surgery.</SadjuukHospitalUpgradeCB.description>
+  <!-- EN: Surgery Lights -->
+  <SadjuukHospitalUpgradeCD.label>Surgery Lights</SadjuukHospitalUpgradeCD.label>
+  <!-- EN: Beauty : 2\nPower : 80W\nImmunity : +0%\nSurgery : +5%\nTending : +0%\nHospital Upgrade : A surgical lamp to help during delicate operations. Must be placed next to a medical bed. -->
+  <SadjuukHospitalUpgradeCD.description>Beauty : 2
+Power : 80W
+Immunity : +0%
+Surgery : +5%
+Tending : +0%
+Hospital Upgrade : A surgical lamp to help during delicate operations. Must be placed next to a medical bed.</SadjuukHospitalUpgradeCD.description>
+  <!-- EN: Wall Monitor -->
+  <SadjuukHospitalUpgradeCE.label>Wall Monitor</SadjuukHospitalUpgradeCE.label>
+  <!-- EN: Beauty : 2\nPower : 50W\nImmunity : +5%\nSurgery : +5%\nTending : +5%\nHospital Upgrade : A monitor showing the patient's vital functions. Must be placed next to a medical bed. -->
+  <SadjuukHospitalUpgradeCE.description>Beauty : 2
+Power : 50W
+Immunity : +5%
+Surgery : +5%
+Tending : +5%
+Hospital Upgrade : A monitor showing the patient's vital functions. Must be placed next to a medical bed.</SadjuukHospitalUpgradeCE.description>
+</LanguageData>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Wood Logs bed -->
+  <SadjuukBedAA.label>Wood Logs bed</SadjuukBedAA.label>
+  <!-- EN: Beauty : 0\nComfort : 60%\nImmunity : +0%\nSurgery : -30%\nTending : +0%\nA simple wooden support to sleep on. It is found among the most primitive peoples and in the most infamous prisons. -->
+  <SadjuukBedAA.description>Beauty : 0
+Comfort : 60%
+Immunity : +0%
+Surgery : -30%
+Tending : +0%
+A simple wooden support to sleep on. It is found among the most primitive peoples and in the most infamous prisons.</SadjuukBedAA.description>
+  <!-- EN: Double Logs bed -->
+  <SadjuukBedroomAB.label>Double Logs bed</SadjuukBedroomAB.label>
+  <!-- EN: Beauty : 0\nComfort : 60%\nImmunity : +0%\nSurgery : -30%\nTending : +0%\nA simple wooden support to sleep on. It is found among the most primitive peoples and in the most infamous prisons. -->
+  <SadjuukBedroomAB.description>Beauty : 0
+Comfort : 60%
+Immunity : +0%
+Surgery : -30%
+Tending : +0%
+A simple wooden support to sleep on. It is found among the most primitive peoples and in the most infamous prisons.</SadjuukBedroomAB.description>
+  <!-- EN: Wooden Bed -->
+  <SadjuukBedroomBA.label>Wooden Bed</SadjuukBedroomBA.label>
+  <!-- EN: Beauty : 4\nComfort : 85%\nImmunity : +5%\nSurgery : +0%\nTending : +0%\nA comfortable bed made of wood giving a soft atmosphere to a room. -->
+  <SadjuukBedroomBA.description>Beauty : 4
+Comfort : 85%
+Immunity : +5%
+Surgery : +0%
+Tending : +0%
+A comfortable bed made of wood giving a soft atmosphere to a room.</SadjuukBedroomBA.description>
+  <!-- EN: Double Wooden Bed -->
+  <SadjuukBedroomBB.label>Double Wooden Bed</SadjuukBedroomBB.label>
+  <!-- EN: Beauty : 4\nComfort : 85%\nImmunity : +5%\nSurgery : +0%\nTending : +0%\nA comfortable bed made of wood giving a soft atmosphere to a room. -->
+  <SadjuukBedroomBB.description>Beauty : 4
+Comfort : 85%
+Immunity : +5%
+Surgery : +0%
+Tending : +0%
+A comfortable bed made of wood giving a soft atmosphere to a room.</SadjuukBedroomBB.description>
+  <!-- EN: Steel Bed -->
+  <SadjuukBedroomCA.label>Steel Bed</SadjuukBedroomCA.label>
+  <!-- EN: Beauty : 2\nComfort : 75%\nImmunity : +8%\nSurgery : +0%\nTending : +0%\nA standard steel bed. Perfect for barracks, it also offers good hygiene properties. -->
+  <SadjuukBedroomCA.description>Beauty : 2
+Comfort : 75%
+Immunity : +8%
+Surgery : +0%
+Tending : +0%
+A standard steel bed. Perfect for barracks, it also offers good hygiene properties.</SadjuukBedroomCA.description>
+  <!-- EN: Double Steel Bed -->
+  <SadjuukBedroomCB.label>Double Steel Bed</SadjuukBedroomCB.label>
+  <!-- EN: Beauty : 2\nComfort : 75%\nImmunity : +8%\nSurgery : +0%\nTending : +0%\nA standard steel bed. Perfect for barracks, it also offers good hygiene properties. -->
+  <SadjuukBedroomCB.description>Beauty : 2
+Comfort : 75%
+Immunity : +8%
+Surgery : +0%
+Tending : +0%
+A standard steel bed. Perfect for barracks, it also offers good hygiene properties.</SadjuukBedroomCB.description>
+  <!-- EN: Wooden Chest -->
+  <SadjuukBedroomUpgradeAA.label>Wooden Chest</SadjuukBedroomUpgradeAA.label>
+  <!-- EN: Beauty : 0\nComfort : +2%\nBedroom Upgrade : A personal wooden chest. Must be placed directly adjacent to the head of the bed. -->
+  <SadjuukBedroomUpgradeAA.description>Beauty : 0
+Comfort : +2%
+Bedroom Upgrade : A personal wooden chest. Must be placed directly adjacent to the head of the bed.</SadjuukBedroomUpgradeAA.description>
+  <!-- EN: Wooden Storage -->
+  <SadjuukBedroomUpgradeAB.label>Wooden Storage</SadjuukBedroomUpgradeAB.label>
+  <!-- EN: Beauty : 0\nComfort : +2%\nBedroom Upgrade : Although made of simple wood, this piece of furniture at least allows you to store your personal belongings. -->
+  <SadjuukBedroomUpgradeAB.description>Beauty : 0
+Comfort : +2%
+Bedroom Upgrade : Although made of simple wood, this piece of furniture at least allows you to store your personal belongings.</SadjuukBedroomUpgradeAB.description>
+  <!-- EN: Small Log Table -->
+  <SadjuukBedroomUpgradeAC.label>Small Log Table</SadjuukBedroomUpgradeAC.label>
+  <!-- EN: Beauty : 0\nComfort : +2%\nBedroom Upgrade : A small primitive table. -->
+  <SadjuukBedroomUpgradeAC.description>Beauty : 0
+Comfort : +2%
+Bedroom Upgrade : A small primitive table.</SadjuukBedroomUpgradeAC.description>
+  <!-- EN: Wood Logs Armchair -->
+  <SadjuukBedroomUpgradeAF.label>Wood Logs Armchair</SadjuukBedroomUpgradeAF.label>
+  <!-- EN: Beauty : 0\nComfort : +2%\nComfort : 70%\nBedroom Upgrade : A rigid wooden seat but still comfortable. -->
+  <SadjuukBedroomUpgradeAF.description>Beauty : 0
+Comfort : +2%
+Comfort : 70%
+Bedroom Upgrade : A rigid wooden seat but still comfortable.</SadjuukBedroomUpgradeAF.description>
+  <!-- EN: Wooden Nightstand -->
+  <SadjuukBedroomUpgradeBA.label>Wooden Nightstand</SadjuukBedroomUpgradeBA.label>
+  <!-- EN: Beauty : 4\nComfort : +2%\nBedroom Upgrade : A beautiful wooden Nightstand. Must be placed directly adjacent to the head of the bed. -->
+  <SadjuukBedroomUpgradeBA.description>Beauty : 4
+Comfort : +2%
+Bedroom Upgrade : A beautiful wooden Nightstand. Must be placed directly adjacent to the head of the bed.</SadjuukBedroomUpgradeBA.description>
+  <!-- EN: Wooden Wardrobe -->
+  <SadjuukBedroomUpgradeBB.label>Wooden Wardrobe</SadjuukBedroomUpgradeBB.label>
+  <!-- EN: Beauty : 4\nComfort : +2%\nBedroom Upgrade : A large wooden wardrobe. -->
+  <SadjuukBedroomUpgradeBB.description>Beauty : 4
+Comfort : +2%
+Bedroom Upgrade : A large wooden wardrobe.</SadjuukBedroomUpgradeBB.description>
+  <!-- EN: Small Wooden Table -->
+  <SadjuukBedroomUpgradeBC.label>Small Wooden Table</SadjuukBedroomUpgradeBC.label>
+  <!-- EN: Beauty : 12\nComfort : +4%\nBedroom Upgrade : A finely decorated bedroom table. -->
+  <SadjuukBedroomUpgradeBC.description>Beauty : 12
+Comfort : +4%
+Bedroom Upgrade : A finely decorated bedroom table.</SadjuukBedroomUpgradeBC.description>
+  <!-- EN: Wooden Armchair -->
+  <SadjuukBedroomUpgradeBF.label>Wooden Armchair</SadjuukBedroomUpgradeBF.label>
+  <!-- EN: Beauty : 6\nComfort : +4%\nComfort : 80%\nBedroom Upgrade : A finely decorated seat. -->
+  <SadjuukBedroomUpgradeBF.description>Beauty : 6
+Comfort : +4%
+Comfort : 80%
+Bedroom Upgrade : A finely decorated seat.</SadjuukBedroomUpgradeBF.description>
+  <!-- EN: Steel Chest -->
+  <SadjuukBedroomUpgradeCA.label>Steel Chest</SadjuukBedroomUpgradeCA.label>
+  <!-- EN: Beauty : 2\nComfort : +2%\nBedroom Upgrade : A personal steel chest, essential in the development of a civilian or military dormitory. Must be placed directly adjacent to the head of the bed. -->
+  <SadjuukBedroomUpgradeCA.description>Beauty : 2
+Comfort : +2%
+Bedroom Upgrade : A personal steel chest, essential in the development of a civilian or military dormitory. Must be placed directly adjacent to the head of the bed.</SadjuukBedroomUpgradeCA.description>
+  <!-- EN: Steel Lockers -->
+  <SadjuukBedroomUpgradeCB.label>Steel Lockers</SadjuukBedroomUpgradeCB.label>
+  <!-- EN: Beauty : 2\nComfort : +2%\nBedroom Upgrade : Steel Lockers allowing a certain privacy. -->
+  <SadjuukBedroomUpgradeCB.description>Beauty : 2
+Comfort : +2%
+Bedroom Upgrade : Steel Lockers allowing a certain privacy.</SadjuukBedroomUpgradeCB.description>
+  <!-- EN: Small Steel Table -->
+  <SadjuukBedroomUpgradeCC.label>Small Steel Table</SadjuukBedroomUpgradeCC.label>
+  <!-- EN: Beauty : 2\nComfort : +2%\nBedroom Upgrade : A standard steel table. -->
+  <SadjuukBedroomUpgradeCC.description>Beauty : 2
+Comfort : +2%
+Bedroom Upgrade : A standard steel table.</SadjuukBedroomUpgradeCC.description>
+  <!-- EN: Small Glass Table -->
+  <SadjuukBedroomUpgradeCD.label>Small Glass Table</SadjuukBedroomUpgradeCD.label>
+  <!-- EN: Beauty : 6\nComfort : +2%\nBedroom Upgrade : A small glass table making nearby beds a little bit more comfortable. -->
+  <SadjuukBedroomUpgradeCD.description>Beauty : 6
+Comfort : +2%
+Bedroom Upgrade : A small glass table making nearby beds a little bit more comfortable.</SadjuukBedroomUpgradeCD.description>
+  <!-- EN: Office Chair -->
+  <SadjuukBedroomUpgradeCF.label>Office Chair</SadjuukBedroomUpgradeCF.label>
+  <!-- EN: Beauty : 2\nComfort : +2%\nComfort : 75%\nBedroom Upgrade : A complex but comfortable manufacturing armchair. -->
+  <SadjuukBedroomUpgradeCF.description>Beauty : 2
+Comfort : +2%
+Comfort : 75%
+Bedroom Upgrade : A complex but comfortable manufacturing armchair.</SadjuukBedroomUpgradeCF.description>
+</LanguageData>

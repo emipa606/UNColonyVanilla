@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Log Storage 1X1 -->
+  <SadjuukStorageAA.label>Log Storage 1X1</SadjuukStorageAA.label>
+  <!-- EN: HP : 50\nA primitive wooden storage. -->
+  <SadjuukStorageAA.description>HP : 50
+A primitive wooden storage.</SadjuukStorageAA.description>
+  <!-- EN: Log Storage 2X1 -->
+  <SadjuukStorageAB.label>Log Storage 2X1</SadjuukStorageAB.label>
+  <!-- EN: HP : 50\nA primitive wooden storage. -->
+  <SadjuukStorageAB.description>HP : 50
+A primitive wooden storage.</SadjuukStorageAB.description>
+  <!-- EN: Log Storage 3X1 -->
+  <SadjuukStorageAC.label>Log Storage 3X1</SadjuukStorageAC.label>
+  <!-- EN: HP : 50\nA primitive wooden storage. -->
+  <SadjuukStorageAC.description>HP : 50
+A primitive wooden storage.</SadjuukStorageAC.description>
+  <!-- EN: Wooden Crate 1X1 -->
+  <SadjuukStorageBA.label>Wooden Crate 1X1</SadjuukStorageBA.label>
+  <!-- EN: HP : 80\nA wooden arrangement for storage. -->
+  <SadjuukStorageBA.description>HP : 80
+A wooden arrangement for storage.</SadjuukStorageBA.description>
+  <!-- EN: Wooden Storage 2X1 -->
+  <SadjuukStorageBB.label>Wooden Storage 2X1</SadjuukStorageBB.label>
+  <!-- EN: HP : 80\nA wooden arrangement for storage. -->
+  <SadjuukStorageBB.description>HP : 80
+A wooden arrangement for storage.</SadjuukStorageBB.description>
+  <!-- EN: Wooden Storage 3X1 -->
+  <SadjuukStorageBC.label>Wooden Storage 3X1</SadjuukStorageBC.label>
+  <!-- EN: HP : 80\nA wooden arrangement for storage. -->
+  <SadjuukStorageBC.description>HP : 80
+A wooden arrangement for storage.</SadjuukStorageBC.description>
+  <!-- EN: Wooden Pallet -->
+  <SadjuukStorageCA.label>Wooden Pallet</SadjuukStorageCA.label>
+  <!-- EN: HP : 50\nAn industrial Wooden Pallet allowing a standardized storage. Cheap and quick to build. -->
+  <SadjuukStorageCA.description>HP : 50
+An industrial Wooden Pallet allowing a standardized storage. Cheap and quick to build.</SadjuukStorageCA.description>
+  <!-- EN: Steel Pallet -->
+  <SadjuukStorageCB.label>Steel Pallet</SadjuukStorageCB.label>
+  <!-- EN: HP : 150\nAn industrial Steel Pallet allowing a standardized storage. Cheap and quick to build. -->
+  <SadjuukStorageCB.description>HP : 150
+An industrial Steel Pallet allowing a standardized storage. Cheap and quick to build.</SadjuukStorageCB.description>
+  <!-- EN: Steel Crate 1X1 -->
+  <SadjuukStorageDA.label>Steel Crate 1X1</SadjuukStorageDA.label>
+  <!-- EN: HP : 150\nA steel arrangement for storage. -->
+  <SadjuukStorageDA.description>HP : 150
+A steel arrangement for storage.</SadjuukStorageDA.description>
+  <!-- EN: Steel Storage 2X1 -->
+  <SadjuukStorageDB.label>Steel Storage 2X1</SadjuukStorageDB.label>
+  <!-- EN: HP : 150\nA steel arrangement for storage. -->
+  <SadjuukStorageDB.description>HP : 150
+A steel arrangement for storage.</SadjuukStorageDB.description>
+  <!-- EN: Steel Storage 3X1 -->
+  <SadjuukStorageDC.label>Steel Storage 3X1</SadjuukStorageDC.label>
+  <!-- EN: HP : 150\nA steel arrangement for storage. -->
+  <SadjuukStorageDC.description>HP : 150
+A steel arrangement for storage.</SadjuukStorageDC.description>
+  <!-- EN: Armory Storage 1X1 -->
+  <SadjuukStorageEA.label>Armory Storage 1X1</SadjuukStorageEA.label>
+  <!-- EN: HP : 450\nPower : 3W\nA heavy reinforced steel storage for military armories. -->
+  <SadjuukStorageEA.description>HP : 450
+Power : 3W
+A heavy reinforced steel storage for military armories.</SadjuukStorageEA.description>
+  <!-- EN: Armory Storage 2X1 -->
+  <SadjuukStorageEB.label>Armory Storage 2X1</SadjuukStorageEB.label>
+  <!-- EN: HP : 450\nPower : 3W\nA heavy reinforced steel storage for military armories. -->
+  <SadjuukStorageEB.description>HP : 450
+Power : 3W
+A heavy reinforced steel storage for military armories.</SadjuukStorageEB.description>
+  <!-- EN: Armory Storage 3X1 -->
+  <SadjuukStorageEC.label>Armory Storage 3X1</SadjuukStorageEC.label>
+  <!-- EN: HP : 450\nPower : 3W\nA heavy reinforced steel storage for military armories. -->
+  <SadjuukStorageEC.description>HP : 450
+Power : 3W
+A heavy reinforced steel storage for military armories.</SadjuukStorageEC.description>
+  <!-- EN: Plasteel Storage 1X1 -->
+  <SadjuukStorageFA.label>Plasteel Storage 1X1</SadjuukStorageFA.label>
+  <!-- EN: HP : 200\nBeauty : 2\nPower : 3W\nA perfect plasteel arrangement for storage. -->
+  <SadjuukStorageFA.description>HP : 200
+Beauty : 2
+Power : 3W
+A perfect plasteel arrangement for storage.</SadjuukStorageFA.description>
+  <!-- EN: Plasteel Storage 2X1 -->
+  <SadjuukStorageFB.label>Plasteel Storage 2X1</SadjuukStorageFB.label>
+  <!-- EN: HP : 200\nBeauty : 2\nPower : 3W\nA perfect plasteel arrangement for storage. -->
+  <SadjuukStorageFB.description>HP : 200
+Beauty : 2
+Power : 3W
+A perfect plasteel arrangement for storage.</SadjuukStorageFB.description>
+  <!-- EN: Plasteel Storage 3X1 -->
+  <SadjuukStorageFC.label>Plasteel Storage 3X1</SadjuukStorageFC.label>
+  <!-- EN: HP : 200\nBeauty : 2\nPower : 3W\nA perfect plasteel arrangement for storage. -->
+  <SadjuukStorageFC.description>HP : 200
+Beauty : 2
+Power : 3W
+A perfect plasteel arrangement for storage.</SadjuukStorageFC.description>
+  <!-- EN: Plasteel Storage 1X1 -->
+  <SadjuukStorageGA.label>Plasteel Storage 1X1</SadjuukStorageGA.label>
+  <!-- EN: HP : 200\nBeauty : 2\nPower : 3W\nA perfect plasteel arrangement for storage. -->
+  <SadjuukStorageGA.description>HP : 200
+Beauty : 2
+Power : 3W
+A perfect plasteel arrangement for storage.</SadjuukStorageGA.description>
+  <!-- EN: Plasteel Storage 2X1 -->
+  <SadjuukStorageGB.label>Plasteel Storage 2X1</SadjuukStorageGB.label>
+  <!-- EN: HP : 200\nBeauty : 2\nPower : 3W\nA perfect plasteel arrangement for storage. -->
+  <SadjuukStorageGB.description>HP : 200
+Beauty : 2
+Power : 3W
+A perfect plasteel arrangement for storage.</SadjuukStorageGB.description>
+  <!-- EN: Plasteel Storage 3X1 -->
+  <SadjuukStorageGC.label>Plasteel Storage 3X1</SadjuukStorageGC.label>
+  <!-- EN: HP : 200\nBeauty : 2\nPower : 3W\nA perfect plasteel arrangement for storage. -->
+  <SadjuukStorageGC.description>HP : 200
+Beauty : 2
+Power : 3W
+A perfect plasteel arrangement for storage.</SadjuukStorageGC.description>
+</LanguageData>
