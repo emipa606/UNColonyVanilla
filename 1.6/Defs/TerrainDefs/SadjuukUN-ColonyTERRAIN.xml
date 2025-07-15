@@ -27,8 +27,8 @@ A simple Walnut floor, made of wooden logs and planks. Looks nice and comfortabl
     <costList>
       <WoodLog>3</WoodLog>
     </costList>
-    <texturePath>SadjuukFloor/SadjuukFloorAA</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorAA_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorAA</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorAA_Icon</uiIconPath>
   </TerrainDef>
   <!-- SadjuukFloorAB (Poplar Logs) -->
   <TerrainDef ParentName="SadjuukFloorBaseA">
@@ -46,8 +46,8 @@ A simple Poplar floor, made of wooden logs and planks. Looks nice and comfortabl
     <costList>
       <WoodLog>3</WoodLog>
     </costList>
-    <texturePath>SadjuukFloor/SadjuukFloorAB</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorAB_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorAB</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorAB_Icon</uiIconPath>
   </TerrainDef>
   <!-- SadjuukFloorAC (Oak Parquet) -->
   <TerrainDef ParentName="SadjuukFloorBaseA">
@@ -66,8 +66,8 @@ A quality Oak parquet giving the interiors a certain cachet.</description>
       <WoodLog>6</WoodLog>
     </costList>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
-    <texturePath>SadjuukFloor/SadjuukFloorAC</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorAC_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorAC</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorAC_Icon</uiIconPath>
   </TerrainDef>
   <!-- SadjuukFloorAD (Alder Plank) -->
   <TerrainDef ParentName="SadjuukFloorBaseA">
@@ -86,8 +86,8 @@ A quality Oak parquet giving the interiors a certain cachet.</description>
       <WoodLog>6</WoodLog>
     </costList>
     <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
-    <texturePath>SadjuukFloor/SadjuukFloorAD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorAD_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorAD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorAD_Icon</uiIconPath>
   </TerrainDef>
   <!-- SadjuukFloorBaseB : BASE Sleel Floor A (Steel) -->
   <TerrainDef Name="SadjuukFloorBaseB" ParentName="SadjuukFloorBase" Abstract="True">
@@ -110,8 +110,8 @@ A quality Oak parquet giving the interiors a certain cachet.</description>
     <costList>
       <Steel>3</Steel>
     </costList>
-    <texturePath>SadjuukFloor/SadjuukFloorBA</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorBA_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorBA</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorBA_Icon</uiIconPath>
   </TerrainDef>
   <!-- SadjuukFloorBB (Steel Plate Floor) -->
   <TerrainDef ParentName="SadjuukFloorBaseB">
@@ -122,8 +122,8 @@ A quality Oak parquet giving the interiors a certain cachet.</description>
     <costList>
       <Steel>3</Steel>
     </costList>
-    <texturePath>SadjuukFloor/SadjuukFloorBB</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorBB_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorBB</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorBB_Icon</uiIconPath>
   </TerrainDef>
   <!-- SadjuukFloorBaseC : BASE Concrete Floor A -->
   <TerrainDef Name="SadjuukFloorBaseC" ParentName="SadjuukFloorBase" Abstract="True">
@@ -146,8 +146,8 @@ A quality Oak parquet giving the interiors a certain cachet.</description>
     <costList>
       <SadjuukConcrete>3</SadjuukConcrete>
     </costList>
-    <texturePath>SadjuukFloor/SadjuukFloorCA</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorCA_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorCA</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorCA_Icon</uiIconPath>
   </TerrainDef>
   <!-- SadjuukFloorBaseD : BASE resin concrete -->
   <TerrainDef Name="SadjuukFloorBaseD" ParentName="SadjuukFloorBase" Abstract="True">
@@ -175,79 +175,79 @@ A Very strong floor conception with concrete foundation and thick layer of paint
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDA</defName>
     <label>Resin Concrete White</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDA_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDA_Icon</uiIconPath>
   </TerrainDef>
   <!-- SadjuukFloorDB (Resin Concrete) -->
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDB</defName>
     <label>Resin Concrete Grey</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDB_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDB_Icon</uiIconPath>
     <color>(180,180,180)</color>
   </TerrainDef>
   <!-- SadjuukFloorDC (Resin Concrete) -->
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDC</defName>
     <label>Resin Concrete Dark</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDC_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDC_Icon</uiIconPath>
     <color>(120,120,120)</color>
   </TerrainDef>
   <!-- SadjuukFloorDD (Resin Concrete) -->
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDD</defName>
     <label>Resin Concrete Red</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDD_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDD_Icon</uiIconPath>
     <color>(120,60,60)</color>
   </TerrainDef>
   <!-- SadjuukFloorDE (Resin Concrete) -->
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDE</defName>
     <label>Resin Concrete Green</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDE_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDE_Icon</uiIconPath>
     <color>(60,120,60)</color>
   </TerrainDef>
   <!-- SadjuukFloorDF (Resin Concrete) -->
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDF</defName>
     <label>Resin Concrete Blue</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDF_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDF_Icon</uiIconPath>
     <color>(60,60,120)</color>
   </TerrainDef>
   <!-- SadjuukFloorDG (Resin Concrete) -->
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDG</defName>
     <label>Resin Concrete Yellow</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDG_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDG_Icon</uiIconPath>
     <color>(120,120,60)</color>
   </TerrainDef>
   <!-- SadjuukFloorDH (Resin Concrete) -->
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDH</defName>
     <label>Resin Concrete Purple</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDH_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDH_Icon</uiIconPath>
     <color>(120,60,120)</color>
   </TerrainDef>
   <!-- SadjuukFloorDI (Resin Concrete) -->
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDI</defName>
     <label>Resin Concrete Green-Grey</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDI_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDI_Icon</uiIconPath>
     <color>(60,120,120)</color>
   </TerrainDef>
   <!-- SadjuukFloorDJ (Resin Concrete) -->
   <TerrainDef ParentName="SadjuukFloorBaseD">
     <defName>SadjuukFloorDJ</defName>
     <label>Resin Concrete Black</label>
-    <texturePath>SadjuukFloor/SadjuukFloorD</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorDJ_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorD</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorDJ_Icon</uiIconPath>
     <color>(60,60,60)</color>
   </TerrainDef>
   <!-- SadjuukFloorBaseE : BASE Asphalt Floor -->
@@ -272,7 +272,7 @@ A Very strong floor conception with concrete foundation and thick layer of paint
       <SadjuukConcrete>1</SadjuukConcrete>
       <Chemfuel>2</Chemfuel>
     </costList>
-    <texturePath>SadjuukFloor/SadjuukFloorEA</texturePath>
-    <uiIconPath>SadjuukFloor/SadjuukFloorEA_Icon</uiIconPath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukFloorEA</texturePath>
+    <uiIconPath>Terrain/SadjuukFloor/SadjuukFloorEA_Icon</uiIconPath>
   </TerrainDef>
 </Defs>
