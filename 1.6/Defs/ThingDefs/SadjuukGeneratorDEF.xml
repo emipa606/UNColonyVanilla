@@ -24,6 +24,8 @@
       <ai_chillDestination>false</ai_chillDestination>
       <isInert>true</isInert>
       <isEdifice>false</isEdifice>
+      <canLandGravshipOn>true</canLandGravshipOn>
+      <canConstructInCorner>true</canConstructInCorner>
       <blueprintGraphicData>
         <texPath>SadjuukGenerator/SadjuukPowerConduitA_Blueprint</texPath>
       </blueprintGraphicData>

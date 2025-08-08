@@ -1,5 +1,8 @@
 # Changelog for UNColonyVanilla
 
+1.6.2 - Conduits should now be buildable in corners
+
+
 1.6.1 - Reupload with fixed asset bundle, terrain has specific bundle-properties
 
 

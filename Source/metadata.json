@@ -8,11 +8,11 @@
     "production",
     "furniture"
   ],
-  "LastXmlCleaning": "2025-07-15T21:12:35.9500269+02:00",
+  "LastXmlCleaning": "2025-08-08T21:48:37.5926663+02:00",
   "Patches": true,
   "Defs": true,
   "Assemblies": false,
   "LinesOfCode": 0,
-  "LinesOfXML": 420825,
-  "CodeBaseSize": 89
+  "LinesOfXML": 420933,
+  "CodeBaseSize": 88
 }
