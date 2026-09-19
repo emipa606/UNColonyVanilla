@@ -12,6 +12,9 @@
     </graphicData>
     <uiIconPath>SadjuukItem/SadjuukConcrete/SadjuukConcrete_Icon</uiIconPath>
     <stackLimit>75</stackLimit>
+    <stuffProps>
+      <isAirtight>true</isAirtight>
+    </stuffProps>
     <statBases>
       <MaxHitPoints>300</MaxHitPoints>
       <MarketValue>1</MarketValue>
@@ -41,6 +44,9 @@
       <Flammability>0</Flammability>
       <DeteriorationRate>0</DeteriorationRate>
     </statBases>
+    <stuffProps>
+      <isAirtight>true</isAirtight>
+    </stuffProps>
     <intricate>true</intricate>
     <thingCategories>
       <li>Manufactured</li>

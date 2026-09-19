@@ -83,6 +83,10 @@ A very rustic wall made of logs, very easy to build.</description>
     <costList>
       <WoodLog>5</WoodLog>
     </costList>
+    <building>
+      <isAirtight>true</isAirtight>
+      <isWall>true</isWall>
+    </building>
     <graphicData>
       <texPath>SadjuukWall/SadjuukWallA/SadjuukWallAA</texPath>
     </graphicData>
@@ -136,6 +140,10 @@ A wooden wall made of planks, resistant and durable.</description>
       <WoodLog>5</WoodLog>
       <Steel>2</Steel>
     </costList>
+    <building>
+      <isAirtight>true</isAirtight>
+      <isWall>true</isWall>
+    </building>
     <graphicData>
       <texPath>SadjuukWall/SadjuukWallA/SadjuukWallAB</texPath>
     </graphicData>
@@ -190,6 +198,10 @@ A rustic wall made of untreated steel and wood. Withstands the elements well.</d
       <WoodLog>2</WoodLog>
       <Steel>5</Steel>
     </costList>
+    <building>
+      <isAirtight>true</isAirtight>
+      <isWall>true</isWall>
+    </building>
     <researchPrerequisites>
       <li>Electricity</li>
     </researchPrerequisites>
@@ -249,6 +261,10 @@ A very protective wall made of thick steel plates and wood.</description>
       <WoodLog>2</WoodLog>
       <Steel>10</Steel>
     </costList>
+    <building>
+      <isAirtight>true</isAirtight>
+      <isWall>true</isWall>
+    </building>
     <researchPrerequisites>
       <li>Electricity</li>
     </researchPrerequisites>
@@ -300,6 +316,10 @@ A very protective wall with embrasure made of thick steel plates and wood.</desc
       <SadjuukConcrete>10</SadjuukConcrete>
       <Steel>2</Steel>
     </costList>
+    <building>
+      <isAirtight>true</isAirtight>
+      <isWall>true</isWall>
+    </building>
     <researchPrerequisites>
       <li>SadjuukConstructionA</li>
     </researchPrerequisites>
@@ -436,6 +456,10 @@ A thick concrete wall with embrasure.</description>
       <SadjuukConcrete>10</SadjuukConcrete>
       <Steel>10</Steel>
     </costList>
+    <building>
+      <isAirtight>true</isAirtight>
+      <isWall>true</isWall>
+    </building>
     <researchPrerequisites>
       <li>SadjuukConstructionB</li>
     </researchPrerequisites>
@@ -594,6 +618,10 @@ A thick concrete wall Armored with heavy steel plates with embrasure.</descripti
       <SadjuukConcrete>10</SadjuukConcrete>
       <Plasteel>10</Plasteel>
     </costList>
+    <building>
+      <isAirtight>true</isAirtight>
+      <isWall>true</isWall>
+    </building>
     <blockWind>true</blockWind>
     <fillPercent>1</fillPercent>
     <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
